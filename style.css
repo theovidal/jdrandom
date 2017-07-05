@@ -20,6 +20,7 @@ div#decos img {
 	width: auto;
 }
 div#decos img#perfect {
+	top: 7px;
 	position: fixed;
 	left: 90%;
 }
@@ -38,6 +39,7 @@ div#decos img#wrong {
 	left: 30%;
 }
 div#decos img#good {
+	top: 7px;
 	position: fixed;
 	left: 20%;
 }
@@ -57,10 +59,12 @@ div#decos img#zebra {
 	top: 90%;
 }
 div#decos img#unicorn {
+	top: 7px;
 	position: fixed;
 	left: 5%;
 }
 div#decos img#diamond {
+	top: 7px;
 	position: fixed;
 	left: 65%;
 }
@@ -69,6 +73,7 @@ div#decos img#rabbit {
 	top: 25%;
 }
 div#decos img#rabbit1 {
+	top: 7px;
 	position: fixed;
 	left: 50%;
 }
@@ -111,9 +116,6 @@ div#decos img#fleche {
 #final-div {
 	display: none;
 }
-#final-div h1 {
-	margin-top: 0;
-}
 
 #players-form, #final-div {
 
@@ -138,6 +140,7 @@ div#decos img#fleche {
 	-moz-box-shadow: 14px 13px 28px 3px rgba(0,0,0,0.75);
 }
 #players-form {
+	margin-top: 80px;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -156,6 +159,7 @@ div#decos img#fleche {
 	border-bottom: #ff5722 2px solid;
 }
 #players-form button {
+	margin-top: 50px;
 	width: 50%;
 }
 #players-form img {
@@ -164,8 +168,11 @@ div#decos img#fleche {
 }
 #final-div img#fivestars {
 	position: fixed;
-	top: -5;
+	top: -5px;
 	z-index: -96;
+}
+#final-div h1 {
+	margin-top: 35px;
 }
 
 @media screen and (max-width: 918px) {
@@ -177,7 +184,7 @@ div#decos img#fleche {
 		height: 300px;
 	}
 	#final-div img#fivestars {
-		top: 35;
+		top: 0px;
 	}
 }
 
@@ -190,13 +197,13 @@ div#decos img#fleche {
 		height: 250px;
 	}
 	#final-div img#fivestars {
-		top: 60;
+		top: 0px;
 	}
 }
 
 @media screen and (max-width: 515px) {
 	#final-div {
-		width: 300px;
+		width: 315px;
 	}
 	#final-div iframe {
 		width: 300px;
@@ -206,7 +213,7 @@ div#decos img#fleche {
 		width: 300px;
 	}
 	#final-div img#fivestars {
-		top: 90;
+		top: 0px;
 	}
 }
 
