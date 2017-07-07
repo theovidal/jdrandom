@@ -18,9 +18,9 @@
 		<img src="img/GOOD.png" alt="deco" id="good" />
 		<img src="img/OK.png" alt="deco" id="ok" />
 		<img src="img/YEAH.png" alt="deco" id="yeah" />
-		<img src="img/WRONG.png" alt="deco" id="wrong" />
+		<!--<img src="img/WRONG.png" alt="deco" id="wrong" />-->
 		<img src="img/PERFECT.png" alt="deco" id="perfect" />
-		<img src="img/jdpoireau.png" alt="deco" id="poireau" />
+		<!--<img src="img/jdpoireau.png" alt="deco" id="poireau" />-->
 		<img src="img/jdpanda.png" alt="deco" id="panda" />
 		<img src="img/jddiamond.png" alt="deco" id="diamond" />
 		<img src="img/couronne_bleue.png" alt="deco" id="couronne_bleue" />
@@ -44,7 +44,7 @@
 		<img src="img/logo.png" alt="logo" />
 
 		<p>Just Dance Random permet de tirer des noms aléatoires ainsi qu'une chanson aléatoire afin de faire une partie de Just Dance. Réalisé par Exybore et DavAll.</p>
-		<p>Pour commencer, rentrez entre 2 et 10 personnes séparés par des espaces ou des points virgules et validez.</p>
+		<p>Pour commencer, rentrez au minimum 2 noms de personnes séparés par des espaces ou des points virgules et validez.</p>
 
         <div class="input-field">
           <input style="width: 500px;" id="input-players" type="text" name="players">
@@ -58,12 +58,12 @@
 
 		<img src="img/5stars.png" alt="5stars" id="fivestars" />
 
-		<div style="margin-top: 150px;" id="icon"></div>
-		<h1 style="margin-top: -30px;" id="names"></h1>
-		<p style="margin-top: -30px;" id="song"></p>
+		<div id="icon"></div>
+		<h1 id="names"></h1>
+		<p id="song"></p>
 
-		<div style="padding-bottom: 5px;"><a class="btn-flat white lighten-4 waves-effect waves-light dropdown-button" data-beloworigin="true" data-activates='dancemenu'>Relancer</a></div>
-		<div style="padding-bottom: 5px;"><a id="" onclick="back();" class="white lighten-4 btn-flat waves-effect waves-light"><i class="material-icons left">arrow_back</i>Retour</a></div>
+		<div style="padding-bottom: 10px;"><button class="waves-effect waves-light dropdown-button" data-beloworigin="true" data-activates='dancemenu'>Nouvelle partie</a></div>
+		<div style="padding-bottom: 20px;"><button id="" onclick="back();" class="waves-effect waves-light"><i class="material-icons left">arrow_back</i>Retour</a></div>
 		<div><input type="checkbox" class="filled-in" id="autoplay"/>
       	<label for="autoplay">Lecture automatique</label></div>
 
@@ -89,6 +89,16 @@
 	    <div class="modal-footer">
 	      <a style="margin-right: 25px;" class="modal-action modal-close waves-effect waves-green btn-flat hover-pointer">Continuer</a>
 	    </div>
+	</div>
+
+	<div id="ups">
+
+		<img src="img/logo.png" alt="logo" />
+
+		<h1>Mince alors !</h1>
+		<p>Votre écran est trop petit pour pouvoir jouer ! La largeur minimale pour que le jeu soit optimisé est de 1000 pixels !</p>
+		<p>Revenez avec un écran plus grand !</p>
+
 	</div>
 
 </body>

@@ -20,6 +20,10 @@ body {
 	background-position: center;
 }
 
+div#ups {
+	display: none;
+}
+
 div#decos {
 	position: fixed;
 }
@@ -123,23 +127,20 @@ div#decos img#fleche {
 
 #final-div {
 	display: none;
-}
-
-#players-form, #final-div {
-
-		width: 500px;
-    height: 80%;
-    margin: auto;
-}
-#final-div {
 	width: 900px;
 	flex-direction: column;
-	justify-content: center;
 	align-items: center;
+	height: 80%;
+	margin: auto;
+}
+
+#players-form, #ups {
+		width: 500px;
+    margin: auto;
 }
 #final-div iframe {
   width: 720px;
-	height: 540px;
+	height: 409px;
 	margin-top: 30px;
 	border: #16a085 5px solid;
 	border-radius: 4px;
@@ -149,7 +150,7 @@ div#decos img#fleche {
 }
 #dance img {
   width: 720px;
-	height: 540px;
+	height: 409px;
 	margin-top: 30px;
 	border: #16a085 5px solid;
 	border-radius: 4px;
@@ -162,7 +163,7 @@ div#decos img#fleche {
 #dance img:hover{
 	transition: 0.2s;
 }
-#players-form {
+#players-form, #ups {
 	margin-top: 80px;
 	display: flex;
 	flex-direction: column;
@@ -172,7 +173,7 @@ div#decos img#fleche {
 #players-form input[type=text] {
 	width: 100%;
 	border: 0;
-	border-bottom: #ff5722 2px solid;
+	border-bottom: #1abc9c 2px solid;
 	background-color: rgba(255, 255, 255, 0);
 }
 #players-form label {
@@ -180,23 +181,21 @@ div#decos img#fleche {
 }
 #players-form input[type=text]:focus {
 	border: 0;
-	border-bottom: #ff5722 3px solid;
+	border-bottom: #16a085 2px solid;
 }
 #players-form button {
 	margin-top: 50px;
 	width: 50%;
 }
-#players-form img {
+#players-form img, #ups img {
 	width: 80%;
 	height: auto;
 }
 #final-div img#fivestars {
+	display: none;
 	position: fixed;
 	top: -5px;
 	z-index: -96;
-}
-#final-div h1 {
-	margin-top: 35px;
 }
 
 @media screen and (max-width: 918px) {
@@ -233,7 +232,7 @@ div#decos img#fleche {
 		width: 300px;
 		height: 200px;
 	}
-	#players-form {
+	#players-form, #ups {
 		width: 300px;
 	}
 	#final-div img#fivestars {
@@ -272,6 +271,10 @@ button:click{
 	transition: 0.3s;
 }
 
+#final-div div#icon {
+	/*margin-top: 400px;*/
+}
+
 #icon img{
 	width: 175px !important;
 }
@@ -282,6 +285,8 @@ button:click{
 	text-shadow: 0px 4px 4px #34495e;
 	color: white;
 	text-transform: uppercase;
+	margin-top: 0;
+	/*margin-top: -30px;*/
 }
 
 #song{
@@ -290,6 +295,8 @@ button:click{
 	text-shadow: 0px 4px 4px #34495e;
 	color: white;
 	text-transform: uppercase;
+	margin-top: 0;
+	/*margin-top: -30px;*/
 }
 
 #names b{
@@ -312,4 +319,13 @@ button:click{
 
 .hover-pointer:hover{
 	cursor: pointer;
+}
+
+@media screen and (max-width: 1000px) {
+	#final-div, #players-form {
+		display: none;
+	}
+	#ups {
+		display: block !important;
+	}
 }
