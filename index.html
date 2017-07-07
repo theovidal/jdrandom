@@ -1,22 +1,17 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
 	<title>Just Dance Random</title>
 	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="style.css" type="text/css" />
-	<meta name="twitter:card" content="summary">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://exybore.github.io/just-dance-random">
-	<meta property="og:locale" content="fr_fr">
-	<meta property="og:title" content="Just Dance Random">
-	<meta property="og:description" name="description" content="Randomiser pour Just Dance">
-	<meta property="og:image" content="https://exybore.github.io/just-dance-random/img/logo.png">
-	<meta name="author" content="Exybore">
-	<meta name="twitter:creator" content="@exybore">
+	<link rel="stylesheet" href="boxstyle.css"/>
 </head>
 <body>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="script.js" type="text/javascript"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
 
 	<div id="decos">
 
@@ -42,15 +37,20 @@
 
 	</div>
 
+	<div id="player-box"></div>
+
 	<div id="players-form">
 
 		<img src="img/logo.png" alt="logo" />
 
-		<p>Just Dance Random permet de tirer des noms aléatoires ainsi qu'une chanson aléatoire afin de faire une partie de Just Dance. Réalisé par Exybore pour DavAll.</p>
-		<p>Pour commencer, rentrez entre 2 et 10 personnes séparés par des points virgules et validez.</p>
+		<p>Just Dance Random permet de tirer des noms aléatoires ainsi qu'une chanson aléatoire afin de faire une partie de Just Dance. Réalisé par Exybore et DavAll.</p>
+		<p>Pour commencer, rentrez entre 2 et 10 personnes séparés par des espaces ou des points virgules et validez.</p>
 
-		<input type="text" id="input-players" name="players" />
-		<button onclick="valid();">Valider</button>
+        <div class="input-field">
+          <input style="width: 500px;" id="input-players" type="text" name="players">
+          <label for="input-players">Joueurs (séparés par des espaces ou des points virgules)</label>
+        </div>
+		<button class="waves-effect waves-light" onclick="valid();">Valider</button>
 
 	</div>
 
@@ -58,12 +58,37 @@
 
 		<img src="img/5stars.png" alt="5stars" id="fivestars" />
 
-		<h1 id="role"></h1>
+		<div style="margin-top: 150px;" id="icon"></div>
+		<h1 style="margin-top: -30px;" id="names"></h1>
+		<p style="margin-top: -30px;" id="song"></p>
 
-		<button onclick="valid();">Relancer</button>
+		<div style="padding-bottom: 5px;"><a class="btn-flat white lighten-4 waves-effect waves-light dropdown-button" data-beloworigin="true" data-activates='dancemenu'>Relancer</a></div>
+		<div style="padding-bottom: 5px;"><a id="" onclick="back();" class="white lighten-4 btn-flat waves-effect waves-light"><i class="material-icons left">arrow_back</i>Retour</a></div>
+		<div><input type="checkbox" class="filled-in" id="autoplay"/>
+      	<label for="autoplay">Lecture automatique</label></div>
 
 		<div id="dance"></div>
+		<div id="preview-song"></div>
 
+	</div>
+
+  <ul id='dancemenu' class='dropdown-content'>
+    <li><a onclick="dance(4);">Aléatoire <span data-badge-caption="" class="right badge" id="allnumber"></span></a></li>
+    <li class="divider"></li>
+    <li><a onclick="dance(0);">Solo <span data-badge-caption="" class="right badge" id="solonumber"></span></a></li>
+    <li><a onclick="dance(1);">Duo <span data-badge-caption="" class="right badge" id="duonumber"></span></a></li>
+    <li id="trio-btn"><a onclick="dance(2);">Trio <span data-badge-caption="" class="right badge" id="trionumber"></span></a></li>
+    <li id="quatro-btn"><a onclick="dance(3);">Quatro <span data-badge-caption="" class="right badge" id="quatronumber"></span></a></li>
+  </ul>
+
+	<div id="error1" class="modal">
+	    <div class="modal-content red lighten-4">
+	      <h4>Erreur</h4>
+	      <p>Vous devez sélectionner au minimum 2 joueurs pour lancer le jeu.</p>
+	    </div>
+	    <div class="modal-footer">
+	      <a style="margin-right: 25px;" class="modal-action modal-close waves-effect waves-green btn-flat hover-pointer">Continuer</a>
+	    </div>
 	</div>
 
 </body>
