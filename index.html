@@ -1,98 +1,143 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
-    <title>Just Dance Random</title>
+	<head>
+	<title>Just Dance Random</title>
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="twitter:card" content="summary">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="http://jdrandom.tk">
-    <meta property="og:locale" content="fr_fr">
-    <meta property="og:title" content="Just Dance Random">
-    <meta property="og:description" name="description" content="Jouez à Just Dance sur PC, avec des titres aléatoires !">
-    <meta property="og:image" content="http://davall.tk/jdrandom/img/logo.png">
-    <meta name="author" content="Exybore & DavAll">
-    <meta name="twitter:creator" content="@exybore">
+		<!-- Metas -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		<meta name="twitter:card" content="summary">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://jdrandom.tk">
+		<meta property="og:locale" content="fr_fr">
+		<meta property="og:title" content="Just Dance Random">
+		<meta property="og:description" name="description" content="Jouez à Just Dance sur PC, avec des titres aléatoires !">
+		<meta property="og:image" content="http://davall.tk/jdrandom/img/logo.png">
+		<meta name="author" content="Exybore & DavAll">
+		<meta name="twitter:creator" content="@exybore">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
-    <link rel="stylesheet" href="style.css" type="text/css" />
-    <link rel="stylesheet" href="boxstyle.css"/>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
-    <script src="script.js" type="text/javascript"></script>
-  </head>
+		<!-- Link -->
+		<link rel="icon" href="img/favicon.png" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		<link rel="stylesheet" href="boxstyle.css"/>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-  <body>
-    <div id="decos">
-      <img src="img/GOOD.png" alt="deco" id="good" />
-      <img src="img/OK.png" alt="deco" id="ok" />
-	<img src="img/YEAH.png" alt="deco" id="yeah" />
-	<!--<img src="img/WRONG.png" alt="deco" id="wrong" />-->
-	<img src="img/PERFECT.png" alt="deco" id="perfect" />
-	<!--<img src="img/jdpoireau.png" alt="deco" id="poireau" />-->
-	<img src="img/jdpanda.png" alt="deco" id="panda" />
-	<img src="img/jddiamond.png" alt="deco" id="diamond" />
-	<img src="img/couronne_bleue.png" alt="deco" id="couronne_bleue" />
-	<img src="img/couronne_rouge.png" alt="deco" id="couronne_rouge" />
-	<img src="img/couronne_orange.png" alt="deco" id="couronne_orange" />
-	<img src="img/couronne_verte.png" alt="deco" id="couronne_verte" />
-	<img src="img/jdunicorn.png" alt="deco" id="unicorn" />
-	<img src="img/jdzebra.png" alt="deco" id="zebra" />
-	<img src="img/jdrabbit.png" alt="deco" id="rabbit" />
-	<img src="img/jdrabbit1.png" alt="deco" id="rabbit1" />
-	<img src="img/jdrobot.png" alt="deco" id="robot" />
+	</head>
 
-	<!--<img src="img/fleche.png" alt="deco" id="fleche" />-->
-      </div>
-      <div id="player-box"></div>
-      <div id="players-form">
-        <img src="img/logo.png" alt="logo" />
-          <p>Just Dance Random permet de tirer des noms aléatoires ainsi qu'une chanson aléatoire afin de faire une partie de Just Dance. Réalisé par Exybore et DavAll.</p>
-	  <p>Pour commencer, rentrez au minimum 2 noms de personnes séparés par des espaces ou des points virgules et validez.</p>
-          <div class="input-field">
-            <input style="width: 500px;" id="input-players" type="text" name="players">
-            <label for="input-players">Joueurs (séparés par des espaces ou des points virgules)</label>
-          </div>
-	  <button class="waves-effect waves-light" onclick="valid();">Valider</button>
-        </div>
-	<div id="final-div">
-	  <img src="img/5stars.png" alt="5stars" id="fivestars" />
-          <div id="icon"></div>
-	  <h1 id="names"></h1>
-	  <p id="song"></p>
-          <div style="padding-bottom: 10px;"><button class="waves-effect waves-light dropdown-button" data-beloworigin="true" data-activates='dancemenu'>Nouvelle partie</a></div>
-	  <div style="padding-bottom: 20px;"><button id="" onclick="back();" class="waves-effect waves-light"><i class="material-icons left">arrow_back</i>Retour</a></div>
-	  <div>
-            <input type="checkbox" class="filled-in" id="autoplay"/>
-      	    <label for="autoplay">Lecture automatique</label></div>
-	    <div id="dance"></div>
-	    <div id="preview-song"></div>
-	  </div>
-          <ul id='dancemenu' class='dropdown-content'>
-            <li><a onclick="dance(4);">Aléatoire <span data-badge-caption="" class="right badge" id="allnumber"></span></a></li>
-            <li class="divider"></li>
-            <li><a onclick="dance(0);">Solo <span data-badge-caption="" class="right badge" id="solonumber"></span></a></li>
-            <li><a onclick="dance(1);">Duo <span data-badge-caption="" class="right badge" id="duonumber"></span></a></li>
-            <li id="trio-btn"><a onclick="dance(2);">Trio <span data-badge-caption="" class="right badge" id="trionumber"></span></a></li>
-            <li id="quatro-btn"><a onclick="dance(3);">Quatro <span data-badge-caption="" class="right badge" id="quatronumber"></span></a></li>
-          </ul>
-	  <div id="error1" class="modal">
-	    <div class="modal-content red lighten-4">
-	      <h4>Erreur</h4>
-	      <p>Vous devez sélectionner au minimum 2 joueurs pour lancer le jeu.</p>
-	    </div>
-	    <div class="modal-footer">
-	      <a style="margin-right: 25px;" class="modal-action modal-close waves-effect waves-green btn-flat hover-pointer">Continuer</a>
-	    </div>
-	  </div>
-	  <div id="ups">
-	    <img src="img/logo.png" alt="logo" />
-            <h1>Mince alors !</h1>
-	    <p>Votre écran est trop petit pour pouvoir jouer ! La largeur minimale pour que le jeu soit optimisé est de 1000 pixels !</p>
-	    <p>Revenez avec un écran plus grand !</p>
-	  </div>
-</body>
+	<body>
+
+		<!-- JavaScript files -->
+		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/js/materialize.min.js"></script>
+		<script src="script.js" type="text/javascript"></script>
+
+		<div id="decos">
+			<img src="img/GOOD.png" alt="deco" id="good" />
+			<img src="img/OK.png" alt="deco" id="ok" />
+			<img src="img/YEAH.png" alt="deco" id="yeah" />
+			<!--<img src="img/WRONG.png" alt="deco" id="wrong" />-->
+			<img src="img/PERFECT.png" alt="deco" id="perfect" />
+			<!--<img src="img/jdpoireau.png" alt="deco" id="poireau" />-->
+			<img src="img/jdpanda.png" alt="deco" id="panda" />
+			<img src="img/jddiamond.png" alt="deco" id="diamond" />
+			<img src="img/couronne_bleue.png" alt="deco" id="couronne_bleue" />
+			<img src="img/couronne_rouge.png" alt="deco" id="couronne_rouge" />
+			<img src="img/couronne_orange.png" alt="deco" id="couronne_orange" />
+			<img src="img/couronne_verte.png" alt="deco" id="couronne_verte" />
+			<img src="img/jdunicorn.png" alt="deco" id="unicorn" />
+			<img src="img/jdzebra.png" alt="deco" id="zebra" />
+			<img src="img/jdrabbit.png" alt="deco" id="rabbit" />
+			<img src="img/jdrabbit1.png" alt="deco" id="rabbit1" />
+			<img src="img/jdrobot.png" alt="deco" id="robot" />
+
+			<!--<img src="img/fleche.png" alt="deco" id="fleche" />-->
+		</div>
+
+		<div id="player-box"></div>
+
+		<div id="players-form">
+			<img src="img/logo.png" alt="logo" />
+			<p>Just Dance Random permet de tirer des noms aléatoires ainsi qu'une chanson aléatoire afin de faire une partie de Just Dance. Réalisé par Exybore et DavAll.</p>
+			<p>Pour commencer, rentrez au minimum 2 noms de personnes séparés par des espaces ou des points virgules et validez.</p>
+			<div class="input-field">
+				<input style="width: 500px;" id="input-players" type="text" name="players">
+				<label for="input-players">Joueurs (séparés par des espaces ou des points virgules)</label>
+			</div>
+			<button class="waves-effect waves-light" onclick="valid();">Valider</button>
+		</div>
+
+		<div id="final-div">
+			<img src="img/5stars.png" alt="5stars" id="fivestars" />
+			<div id="icon"></div>
+			<h1 id="names"></h1>
+			<p id="song"></p>
+			<div style="padding-bottom: 10px;">
+				<button class="waves-effect waves-light dropdown-button" data-beloworigin="true" data-activates='dancemenu'>
+					Nouvelle partie
+				</button>
+			</div>
+			<div style="padding-bottom: 20px;">
+				<button id="" onclick="back();" class="waves-effect waves-light"><i class="material-icons left">arrow_back</i>
+					Retour
+				</button>
+			</div>
+			<div>
+				<input type="checkbox" class="filled-in" id="autoplay"/>
+				<label for="autoplay">Lecture automatique</label></div>
+				<div id="dance"></div>
+				<div id="preview-song"></div>
+			</div>
+			<ul id='dancemenu' class='dropdown-content'>
+				<li>
+					<a onclick="dance(4);">
+						Aléatoire 
+						<span data-badge-caption="" class="right badge" id="allnumber"></span>
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a onclick="dance(0);">
+						Solo 
+						<span data-badge-caption="" class="right badge" id="solonumber"></span>
+					</a>
+				</li>
+				<li>
+					<a onclick="dance(1);">
+						Duo 
+						<span data-badge-caption="" class="right badge" id="duonumber"></span>
+					</a>
+				</li>
+				<li id="trio-btn">
+					<a onclick="dance(2);">
+						Trio 
+						<span data-badge-caption="" class="right badge" id="trionumber"></span>
+					</a>
+				</li>
+				<li id="quatro-btn">
+					<a onclick="dance(3);">
+						Quatro 
+						<span data-badge-caption="" class="right badge" id="quatronumber"></span>
+					</a>
+				</li>
+			</ul>
+			<div id="error1" class="modal">
+				<div class="modal-content red lighten-4">
+					<h4>Erreur</h4>
+					<p>Vous devez sélectionner au minimum 2 joueurs pour lancer le jeu.</p>
+				</div>
+				<div class="modal-footer">
+					<a style="margin-right: 25px;" class="modal-action modal-close waves-effect waves-green btn-flat hover-pointer">Continuer</a>
+				</div>
+			</div>
+		</div>
+		
+		<div id="ups">
+			<img src="img/logo.png" alt="logo" />
+			<h1>Mince alors !</h1>
+			<p>Votre écran est trop petit pour pouvoir jouer ! La largeur minimale pour que le jeu soit optimisé est de 1000 pixels !</p>
+			<p>Revenez avec un écran plus grand !</p>
+		</div>
+
+	</body>
 </html>
