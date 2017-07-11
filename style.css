@@ -323,7 +323,7 @@ button:click{
 
 @media screen and (max-width: 1000px) {
 	#final-div, #players-form {
-		display: none;
+		display: none !important;
 	}
 	#ups {
 		display: block !important;
