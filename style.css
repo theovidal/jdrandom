@@ -1,27 +1,37 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
 
 @font-face {
-	font-family: 'JustDanceBold';
+	font-family: 'JDBold';
 	src: url('fonts/jd-bold.eot');
 	src: local('☺'), url('fonts/jd-bold.woff') format('woff'), url('fonts/jd-bold.ttf') format('truetype'), url('fonts/jd-bold.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'JDRegular';
+	src: url('fonts/jd-regular.eot');
+	src: local('☺'), url('fonts/jd-regular.woff') format('woff'), url('fonts/jd-regular.ttf') format('truetype'), url('fonts/jd-regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 * {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'JDRegular', sans-serif;
+	text-shadow: 0px 1px 3px #2c3e50;
+	color: #fff;
+}
+
+a{
+	text-shadow: none !important;
+	color: black !important;
 }
 
 body {
-	background-image: url('img/bg-flou.png');
+	background-image: url('img/background.png');
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
-}
-
-div#ups {
-	display: none;
 }
 
 div#decos {
@@ -127,20 +137,23 @@ div#decos img#fleche {
 
 #final-div {
 	display: none;
-	width: 900px;
-	flex-direction: column;
-	align-items: center;
-	height: 80%;
-	margin: auto;
 }
 
-#players-form, #ups {
+#players-form, #final-div {
+
 		width: 500px;
+    height: 80%;
     margin: auto;
+}
+#final-div {
+	width: 900px;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 #final-div iframe {
   width: 720px;
-	height: 409px;
+	height: 480px;
 	margin-top: 30px;
 	border: #16a085 5px solid;
 	border-radius: 4px;
@@ -150,7 +163,7 @@ div#decos img#fleche {
 }
 #dance img {
   width: 720px;
-	height: 409px;
+	height: 480px;
 	margin-top: 30px;
 	border: #16a085 5px solid;
 	border-radius: 4px;
@@ -163,7 +176,7 @@ div#decos img#fleche {
 #dance img:hover{
 	transition: 0.2s;
 }
-#players-form, #ups {
+#players-form {
 	margin-top: 80px;
 	display: flex;
 	flex-direction: column;
@@ -173,7 +186,7 @@ div#decos img#fleche {
 #players-form input[type=text] {
 	width: 100%;
 	border: 0;
-	border-bottom: #1abc9c 2px solid;
+	border-bottom: #ff5722 2px solid;
 	background-color: rgba(255, 255, 255, 0);
 }
 #players-form label {
@@ -181,21 +194,23 @@ div#decos img#fleche {
 }
 #players-form input[type=text]:focus {
 	border: 0;
-	border-bottom: #16a085 2px solid;
+	border-bottom: #ff5722 3px solid;
 }
 #players-form button {
 	margin-top: 50px;
 	width: 50%;
 }
-#players-form img, #ups img {
+#players-form img {
 	width: 80%;
 	height: auto;
 }
 #final-div img#fivestars {
-	display: none;
 	position: fixed;
 	top: -5px;
 	z-index: -96;
+}
+#final-div h1 {
+	margin-top: 35px;
 }
 
 @media screen and (max-width: 918px) {
@@ -232,7 +247,7 @@ div#decos img#fleche {
 		width: 300px;
 		height: 200px;
 	}
-	#players-form, #ups {
+	#players-form {
 		width: 300px;
 	}
 	#final-div img#fivestars {
@@ -271,8 +286,8 @@ button:click{
 	transition: 0.3s;
 }
 
-#final-div div#icon {
-	/*margin-top: 400px;*/
+label{
+	color: #fff !important;
 }
 
 #icon img{
@@ -280,27 +295,23 @@ button:click{
 }
 
 #names{
-	font-family:'JustDanceBold', sans-serif !important;
+	font-family:'JDBold', sans-serif !important;
 	font-size: 40px;
 	text-shadow: 0px 4px 4px #34495e;
 	color: white;
 	text-transform: uppercase;
-	margin-top: 0;
-	/*margin-top: -30px;*/
 }
 
 #song{
-	font-family:'JustDanceBold', sans-serif !important;
+	font-family:'JDBold', sans-serif !important;
 	font-size: 40px;
 	text-shadow: 0px 4px 4px #34495e;
 	color: white;
 	text-transform: uppercase;
-	margin-top: 0;
-	/*margin-top: -30px;*/
 }
 
 #names b{
-	font-family:'JustDanceBold', sans-serif !important;
+	font-family:'JDBold', sans-serif !important;
 	font-size: 45px;
 	text-shadow: 0px 4px 4px #34495e;
 	color: #f1c40f;
@@ -309,7 +320,7 @@ button:click{
 }
 
 #song b{
-	font-family:'JustDanceBold', sans-serif !important;
+	font-family:'JDBold', sans-serif !important;
 	font-size: 45px;
 	text-shadow: 0px 4px 4px #34495e;
 	color: #f1c40f;
@@ -321,11 +332,64 @@ button:click{
 	cursor: pointer;
 }
 
-@media screen and (max-width: 1000px) {
-	#final-div, #players-form {
-		display: none !important;
-	}
-	#ups {
-		display: block !important;
-	}
+#logo{
+	padding-top: 25px;
+}
+
+.side-nav{
+	width: 450px;
+	font-family:'JDBold', sans-serif !important;
+	font-size: 35px !important;
+}
+
+.final-div a{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+html {
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+}
+html, body {
+    min-height: 90%;
+}
+html.loading {
+    background: #fff url('img/loading2.gif') no-repeat 50% 50%;
+
+    -webkit-transition: background-color 0;
+    transition: background-color 0;
+}
+body {
+    -webkit-transition: opacity 1s ease-in;
+    transition: opacity 1s ease-in;
+}
+html.loading body {
+    opacity: 0;
+
+    -webkit-transition: opacity 0;
+    transition: opacity 0;
+}
+
+#version{
+	padding-left: 5px;
+	bottom: 0px;
+	position: fixed;
+	font-family:'JDRegular', sans-serif !important;
+	font-size: 25px !important;
+	color: black;
+}
+
+#version a{
+	color: #16a085 !important;
+	font-family:'JDRegular', sans-serif !important;
+	font-size: 25px !important;
+}
+
+#dancemenu{
+	width: 250px !important;
+}
+
+.right{
+	float: right !important;
 }
