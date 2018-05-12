@@ -1,0 +1,4587 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "game": "jd",
+      "title": "Acceptable In The 80s",
+      "author": "Calvin Harris",
+      "gameplay": "https://www.youtube.com/embed/_5-K3o-BrRY",
+      "jdu": "1",
+      "dlc": "0"
+    },
+    {
+      "id": "2",
+      "game": "jd",
+      "title": "A Little Less Conversation (Junkie XL remix)",
+      "author": "Elvis Presley",
+      "gameplay": "https://www.youtube.com/embed/FL4bym3-Tv0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "3",
+      "game": "jd",
+      "title": "Bebe",
+      "author": "Divine Brown",
+      "gameplay": "https://www.youtube.com/embed/tU4HWgDs9Ck",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "4",
+      "game": "jd",
+      "title": "Can't Get You Out of My Head",
+      "author": "Kylie Minogue",
+      "gameplay": "https://www.youtube.com/embed/1CVaTKW0pkE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "5",
+      "game": "jd",
+      "title": "Cotton Eye Joe",
+      "author": "Rednex",
+      "gameplay": "https://www.youtube.com/embed/ZxaGchqDU1s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "6",
+      "game": "jd",
+      "title": "DARE",
+      "author": "Gorillaz",
+      "gameplay": "https://www.youtube.com/embed/eL_fCQdWtf0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "7",
+      "game": "jd",
+      "title": "Eye of the Tiger",
+      "author": "Survivor",
+      "gameplay": "https://www.youtube.com/embed/_QV1xD8Fvf0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "8",
+      "game": "jd",
+      "title": "Fame",
+      "author": "Irene Cara",
+      "gameplay": "https://www.youtube.com/embed/rTXl9xs7t_c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "9",
+      "game": "jd",
+      "title": "Funplex (CSS Remix)",
+      "author": "The B-52's",
+      "gameplay": "https://www.youtube.com/embed/7-u6C2hL3E8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "10",
+      "game": "jd",
+      "title": "Girls & Boys",
+      "author": "Blur",
+      "gameplay": "https://www.youtube.com/embed/bz4YAKz4ieA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "11",
+      "game": "jd",
+      "title": "Girls Just Want to Have Fun",
+      "author": "Cyndi Lauper",
+      "gameplay": "https://www.youtube.com/embed/iWOatbe3lSQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "12",
+      "game": "jd",
+      "title": "Groove Is in the Heart",
+      "author": "Deee-Lite",
+      "gameplay": "https://www.youtube.com/embed/1Y8sd2_5zD4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "13",
+      "game": "jd",
+      "title": "Heart of Glass",
+      "author": "Blondie",
+      "gameplay": "https://www.youtube.com/embed/EnQY90DgLfE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "14",
+      "game": "jd",
+      "title": "Hot n Cold",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/4iAQcAz__80",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "15",
+      "game": "jd",
+      "title": "I Get Around",
+      "author": "The Beach Boys",
+      "gameplay": "https://www.youtube.com/embed/pHTq161Yl08",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "16",
+      "game": "jd",
+      "title": "I Like to Move It",
+      "author": "Reel 2 Real",
+      "gameplay": "https://www.youtube.com/embed/K4jZmZJB768",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "17",
+      "game": "jd",
+      "title": "Jerk It Out",
+      "author": "Caesars",
+      "gameplay": "https://www.youtube.com/embed/NXPPoBrToFA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "18",
+      "game": "jd",
+      "title": "Jin-Go-Lo-Ba (Fatboy Slim remix)",
+      "author": "Babatunde Olatunji",
+      "gameplay": "https://www.youtube.com/embed/5XomyNKzHFk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "19",
+      "game": "jd",
+      "title": "Kids in America",
+      "author": "Kim Wilde",
+      "gameplay": "https://www.youtube.com/embed/8smazvoHaXw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "20",
+      "game": "jd",
+      "title": "Le Freak",
+      "author": "Chic",
+      "gameplay": "https://www.youtube.com/embed/EnXrmQi_qAk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "21",
+      "game": "jd",
+      "title": "Louie Louie",
+      "author": "Iggy Pop",
+      "gameplay": "https://www.youtube.com/embed/9Uig7GWfjmE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "22",
+      "game": "jd",
+      "title": "Lump",
+      "author": "The Presidents of the United States of America",
+      "gameplay": "https://www.youtube.com/embed/lzsWWCMbM0U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "23",
+      "game": "jd",
+      "title": "Mashed Potato Time",
+      "author": "Dee Dee Sharp",
+      "gameplay": "https://www.youtube.com/embed/FPvm9Ohf1EI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "24",
+      "game": "jd",
+      "title": "Pump Up the Jam",
+      "author": "Technotronic",
+      "gameplay": "https://www.youtube.com/embed/6piSCzobp9Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "25",
+      "game": "jd",
+      "title": "Ring My Bell",
+      "author": "Anita Ward",
+      "gameplay": "https://www.youtube.com/embed/54Hl7ZX-1GI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "26",
+      "game": "jd",
+      "title": "Step By Step",
+      "author": "New Kids on the Block",
+      "gameplay": "https://www.youtube.com/embed/i3zx_d2wcs4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "27",
+      "game": "jd",
+      "title": "Surfin' Bird",
+      "author": "The Trashmen",
+      "gameplay": "https://www.youtube.com/embed/E-804nEFTxo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "28",
+      "game": "jd",
+      "title": "That's the Way (I Like It)",
+      "author": "KC and the Sunshine Band",
+      "gameplay": "https://www.youtube.com/embed/1s--etc2FRo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "29",
+      "game": "jd",
+      "title": "U Can't Touch This",
+      "author": "MC Hammer",
+      "gameplay": "https://www.youtube.com/embed/2lnYqSQsYAk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "30",
+      "game": "jd",
+      "title": "Wannabe",
+      "author": "Spice Girls",
+      "gameplay": "https://www.youtube.com/embed/57rlYfItdCs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "31",
+      "game": "jd",
+      "title": "Who Let the Dogs Out?",
+      "author": "Baha Men",
+      "gameplay": "https://www.youtube.com/embed/sx0O7vffbWk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "32",
+      "game": "jd",
+      "title": "Womanizer",
+      "author": "Britney Spears",
+      "gameplay": "https://www.youtube.com/embed/zxbUOcdHdms",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "33",
+      "game": "jd2",
+      "title": "A-Punk",
+      "author": "Vampire Weekend",
+      "gameplay": "https://www.youtube.com/embed/bcTy2MaKvg4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "34",
+      "game": "jd2",
+      "title": "Alright",
+      "author": "Supergrass",
+      "gameplay": "https://www.youtube.com/embed/85mNIDXEN4s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "35",
+      "game": "jd2",
+      "title": "Baby Girl",
+      "author": "Reggaeton",
+      "gameplay": "https://www.youtube.com/embed/I6vrQVUVzcE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "36",
+      "game": "jd2",
+      "title": "Big Girl (You Are Beautiful)",
+      "author": "Mika",
+      "gameplay": "https://www.youtube.com/embed/go73erd3xzM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "37",
+      "game": "jd2",
+      "title": "Body Movin'\t",
+      "author": "Beastie Boys",
+      "gameplay": "https://www.youtube.com/embed/V30k5xyYYmc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "38",
+      "game": "jd2",
+      "title": "Call Me",
+      "author": "Blondie",
+      "gameplay": "https://www.youtube.com/embed/76G6KA8t0Pw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "39",
+      "game": "jd2",
+      "title": "Cosmic Girl",
+      "author": "Jamiroquai",
+      "gameplay": "https://www.youtube.com/embed/gFwtUaVX0c0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "40",
+      "game": "jd2",
+      "title": "Crazy in Love",
+      "author": "Beyonc\u00e9",
+      "gameplay": "https://www.youtube.com/embed/9LU17JS9r9c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "41",
+      "game": "jd2",
+      "title": "D.A.N.C.E.",
+      "author": "Justice",
+      "gameplay": "https://www.youtube.com/embed/NCAYaQo-C0I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "42",
+      "game": "jd2",
+      "title": "Dagomba",
+      "author": "Sorcerer",
+      "gameplay": "https://www.youtube.com/embed/QbnfqMRUlOQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "43",
+      "game": "jd2",
+      "title": "Funkytown",
+      "author": "Lipps Inc.",
+      "gameplay": "https://www.youtube.com/embed/hc-SQ5e-cks",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "44",
+      "game": "jd2",
+      "title": "Girlfriend",
+      "author": "Avril Lavigne",
+      "gameplay": "https://www.youtube.com/embed/rkNHlJSGcv4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "45",
+      "game": "jd2",
+      "title": "Hey Ya!",
+      "author": "OutKast",
+      "gameplay": "https://www.youtube.com/embed/81auK0GPgVE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "46",
+      "game": "jd2",
+      "title": "Holiday",
+      "author": "Madonna",
+      "gameplay": "https://www.youtube.com/embed/5cVQDqEqiAs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "47",
+      "game": "jd2",
+      "title": "Hot Stuff",
+      "author": "Donna Summer",
+      "gameplay": "https://www.youtube.com/embed/C7fYcYlOklk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "48",
+      "game": "jd2",
+      "title": "Idealistic",
+      "author": "Digitalism",
+      "gameplay": "https://www.youtube.com/embed/awBOQm6Jn7M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "49",
+      "game": "jd2",
+      "title": "I Feel Good",
+      "author": "James Brown",
+      "gameplay": "https://www.youtube.com/embed/XOvwo3QxL4s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "50",
+      "game": "jd2",
+      "title": "Iko Iko",
+      "author": "Mardi Gras",
+      "gameplay": "https://www.youtube.com/embed/Uq_kg6gZVEc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "51",
+      "game": "jd2",
+      "title": "It's Raining Men",
+      "author": "The Weather Girls",
+      "gameplay": "https://www.youtube.com/embed/7St0NnVMN4Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "52",
+      "game": "jd2",
+      "title": "I Want You Back",
+      "author": "The Jackson 5",
+      "gameplay": "https://www.youtube.com/embed/Ynw3rOKFIVY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "53",
+      "game": "jd2",
+      "title": "Jai Ho",
+      "author": "Allah Rakha Rahman & The Pussycat Dolls",
+      "gameplay": "https://www.youtube.com/embed/Ui1jpqVS4G4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "54",
+      "game": "jd2",
+      "title": "Jump",
+      "author": "Studio Allstars",
+      "gameplay": "https://www.youtube.com/embed/3Wh9oNugr8I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "55",
+      "game": "jd2",
+      "title": "Jump in the Line",
+      "author": "Harry Belafonte",
+      "gameplay": "https://www.youtube.com/embed/FL58fasm6wY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "56",
+      "game": "jd2",
+      "title": "Jungle Boogie",
+      "author": "Kool & The Gang",
+      "gameplay": "https://www.youtube.com/embed/givl6-Rw7Io",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "57",
+      "game": "jd2",
+      "title": "Katti Kalandal",
+      "author": "Bollywood",
+      "gameplay": "https://www.youtube.com/embed/ZbCThGlGbak",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "58",
+      "game": "jd2",
+      "title": "Monster Mash",
+      "author": "Fant\u00f4mes contre fant\u00f4mes",
+      "gameplay": "https://www.youtube.com/embed/wKSvMaw17gY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "59",
+      "game": "jd2",
+      "title": "Move Your Feet",
+      "author": "Junior Senior",
+      "gameplay": "https://www.youtube.com/embed/ycc6Ge0lVPo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "60",
+      "game": "jd2",
+      "title": "Mugsy Baloney",
+      "author": "Charleston",
+      "gameplay": "https://www.youtube.com/embed/GEW3a9dM6sw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "61",
+      "game": "jd2",
+      "title": "Proud Mary",
+      "author": "Ike & Tina Turner",
+      "gameplay": "https://www.youtube.com/embed/Ug5UXdG6RFw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "62",
+      "game": "jd2",
+      "title": "Rasputin",
+      "author": "Boney M.",
+      "gameplay": "https://www.youtube.com/embed/oUfnhiEhwzY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "63",
+      "game": "jd2",
+      "title": "Rockafeller Skank",
+      "author": "Fatboy Slim",
+      "gameplay": "https://www.youtube.com/embed/9-li_iD1coI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "64",
+      "game": "jd2",
+      "title": "SOS",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/zL8msdqALLg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "65",
+      "game": "jd2",
+      "title": "Satisfaction",
+      "author": "Benny Benassi",
+      "gameplay": "https://www.youtube.com/embed/d_Iq5NuB430",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "66",
+      "game": "jd2",
+      "title": "Should I Stay or Should I Go",
+      "author": "The Clash",
+      "gameplay": "https://www.youtube.com/embed/9G3h3KXwR4o",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "67",
+      "game": "jd2",
+      "title": "Soul Bossa Nova",
+      "author": "Quincy Jones and His Orchestra",
+      "gameplay": "https://www.youtube.com/embed/Nne8qM6shQo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "68",
+      "game": "jd2",
+      "title": "Sway (Quien Sera)",
+      "author": "Marine Band (Michael Bubl\u00e9)",
+      "gameplay": "https://www.youtube.com/embed/6bguwYsyhng",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "69",
+      "game": "jd2",
+      "title": "Sympathy for the Devil",
+      "author": "The Rolling Stones",
+      "gameplay": "https://www.youtube.com/embed/esSswTrrOBw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "70",
+      "game": "jd2",
+      "title": "Take Me Out",
+      "author": "Franz Ferdinand",
+      "gameplay": "https://www.youtube.com/embed/KXmULY5BrXI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "71",
+      "game": "jd2",
+      "title": "That's Not My Name",
+      "author": "The Ting Tings",
+      "gameplay": "https://www.youtube.com/embed/pbbZkW6--D0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "72",
+      "game": "jd2",
+      "title": "The Power",
+      "author": "Snap!",
+      "gameplay": "https://www.youtube.com/embed/9tVPnvD848w",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "73",
+      "game": "jd2",
+      "title": "The Shoop Shoop Song",
+      "author": "Cher",
+      "gameplay": "https://www.youtube.com/embed/XkCFdbjyXtQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "74",
+      "game": "jd2",
+      "title": "Tik Tok",
+      "author": "Kesha",
+      "gameplay": "https://www.youtube.com/embed/63yWNiRDexo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "75",
+      "game": "jd2",
+      "title": "Toxic",
+      "author": "Britney Spears",
+      "gameplay": "https://www.youtube.com/embed/DDeBSww17Os",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "76",
+      "game": "jd2",
+      "title": "Viva Las Vegas",
+      "author": "Elvis Presley",
+      "gameplay": "https://www.youtube.com/embed/Z-1J6LASzbo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "77",
+      "game": "jd2",
+      "title": "Wake Me Up Before You Go-Go",
+      "author": "Wham!",
+      "gameplay": "https://www.youtube.com/embed/7LCYtthW1zE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "78",
+      "game": "jd2",
+      "title": "Walk Like An Egyptian",
+      "author": "The Bangles",
+      "gameplay": "https://www.youtube.com/embed/fWBw9oiZcGQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "79",
+      "game": "jd2",
+      "title": "When I Grow Up",
+      "author": "The Pussycat Dolls",
+      "gameplay": "https://www.youtube.com/embed/B2jMQFqYJyY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "80",
+      "game": "jd2",
+      "title": "Barbie Girl",
+      "author": "Aqua",
+      "gameplay": "https://www.youtube.com/embed/ciQ0cDk_ddc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "81",
+      "game": "jd2",
+      "title": "Firework",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/_3gaRyCnXIU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "82",
+      "game": "jd2",
+      "title": "Pon de Replay",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/AosphmMX0JQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "83",
+      "game": "jd2",
+      "title": "Pump Up the Volume",
+      "author": "MARRS",
+      "gameplay": "https://www.youtube.com/embed/Vn0z4-7ClHU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "84",
+      "game": "jd2",
+      "title": "Maniac",
+      "author": "Michael Sembello",
+      "gameplay": "https://www.youtube.com/embed/6m4QpF8Ck50",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "85",
+      "game": "jd2",
+      "title": "Born to Be Wild",
+      "author": "Steppenwolf",
+      "gameplay": "https://www.youtube.com/embed/8BNW59q3LJU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "86",
+      "game": "jd2",
+      "title": "Professor Pumplestickle",
+      "author": "Nick Phoenix & Thomas J. Bergersen",
+      "gameplay": "https://www.youtube.com/embed/hLTaDL7NQMw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "87",
+      "game": "jd2",
+      "title": "Crying Blood",
+      "author": "V V Brown",
+      "gameplay": "https://www.youtube.com/embed/iJrTdZdiMtw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "88",
+      "game": "jd2",
+      "title": "Down by the Riverside",
+      "author": "Carl Sandburg",
+      "gameplay": "https://www.youtube.com/embed/xyIXj7Aj8_E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "89",
+      "game": "jd2",
+      "title": "Futebol Crazy",
+      "author": "Paul J. Borg",
+      "gameplay": "https://www.youtube.com/embed/NFE30Yc_aIM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "90",
+      "game": "jd2",
+      "title": "Kung Fu Fighting",
+      "author": "Carl Douglas",
+      "gameplay": "https://www.youtube.com/embed/Mkg7xfr-mKA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "91",
+      "game": "jd2",
+      "title": "Mambo No. 5",
+      "author": "Lou Bega",
+      "gameplay": "https://www.youtube.com/embed/LEDzU6WdYps",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "92",
+      "game": "jd2",
+      "title": "Nine in the Afternoon",
+      "author": "Panic! at the Disco",
+      "gameplay": "https://www.youtube.com/embed/oR0nkUVMYZQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "93",
+      "game": "jd2",
+      "title": "It's Not Unusual",
+      "author": "Tom Jones",
+      "gameplay": "https://www.youtube.com/embed/LM_hbFn-NEU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "94",
+      "game": "jd2",
+      "title": "Chicken Payback",
+      "author": "A Band of Bees",
+      "gameplay": "https://www.youtube.com/embed/_DeGY-EnNAU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "95",
+      "game": "jd2",
+      "title": "Crazy Christmas",
+      "author": "Santa Clones",
+      "gameplay": "https://www.youtube.com/embed/0vJEGM0Mkx4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "96",
+      "game": "jd2",
+      "title": "Skin-To-Skin",
+      "author": "Sweat Invaders",
+      "gameplay": "https://www.youtube.com/embed/nxpma2BbsG4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "97",
+      "game": "jd2",
+      "title": "You Can't Hurry Love",
+      "author": "The Supremes",
+      "gameplay": "https://www.youtube.com/embed/Seh1Ze9ckEM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "98",
+      "game": "jd2",
+      "title": "Why Oh Why",
+      "author": "Love Letter",
+      "gameplay": "https://www.youtube.com/embed/CjVFyTsPR8w",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "99",
+      "game": "jd2",
+      "title": "American Boy",
+      "author": "Estelle feat Kanye West",
+      "gameplay": "https://www.youtube.com/embed/-PfIHaNxbo8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "100",
+      "game": "jd2",
+      "title": "Come On Eileen",
+      "author": "Dexys Midnight Runners",
+      "gameplay": "https://www.youtube.com/embed/y2dbmcrLvQc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "101",
+      "game": "jd2",
+      "title": "Song 2",
+      "author": "Blur",
+      "gameplay": "https://www.youtube.com/embed/ypVCyvrdD-g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "102",
+      "game": "jd2",
+      "title": "Spice Up Your Life",
+      "author": "Spice Girls",
+      "gameplay": "https://www.youtube.com/embed/vL0RdAKnCW4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "103",
+      "game": "jd2",
+      "title": "Here Comes The Hotstepper",
+      "author": "Ini Kamoze",
+      "gameplay": "https://www.youtube.com/embed/ZuurxnmX7UY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "104",
+      "game": "jd2",
+      "title": "Moving on Up",
+      "author": "M People",
+      "gameplay": "https://www.youtube.com/embed/lSmLcvtbrz8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "105",
+      "game": "jd3",
+      "title": "Airplanes",
+      "author": "B.o.B featuring Hayley Williams",
+      "gameplay": "https://www.youtube.com/embed/a8jOyy5USpE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "106",
+      "game": "jd3",
+      "title": "Apache (Jump On It)",
+      "author": "The Sugarhill Gang",
+      "gameplay": "https://www.youtube.com/embed/HRaSwkQfFDQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "107",
+      "game": "jd3",
+      "title": "Are You Gonna Go My Way",
+      "author": "Lenny Kravitz",
+      "gameplay": "https://www.youtube.com/embed/vWTZ4w6w-DM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "108",
+      "game": "jd3",
+      "title": "Baby One More Time",
+      "author": "Britney Spears (The Girly Team)",
+      "gameplay": "https://www.youtube.com/embed/HgU7uRU42hk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "109",
+      "game": "jd3",
+      "title": "Baby Zouk",
+      "author": "Dr. Creole",
+      "gameplay": "https://www.youtube.com/embed/LZLnmTtntP4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "110",
+      "game": "jd3",
+      "title": "Barbra Streisand",
+      "author": "Duck Sauce",
+      "gameplay": "https://www.youtube.com/embed/qj8h8jr7fdM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "111",
+      "game": "jd3",
+      "title": "Beautiful Liar",
+      "author": "Beyonc\u00e9 et Shakira (Countdouwn Mix Masters)",
+      "gameplay": "https://www.youtube.com/embed/eMvnMMeZiRA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "112",
+      "game": "jd3",
+      "title": "Boogie Wonderland",
+      "author": "Earth, Wind and Fire (Groove Century)",
+      "gameplay": "https://www.youtube.com/embed/tclPEggpgPk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "113",
+      "game": "jd3",
+      "title": "Boom",
+      "author": "Reggaeton Explosion",
+      "gameplay": "https://www.youtube.com/embed/FOrlMO9WHUI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "114",
+      "game": "jd3",
+      "title": "California Gurls",
+      "author": "Katy Perry feat Snoop Dogg",
+      "gameplay": "https://www.youtube.com/embed/3g47NvSaxPI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "115",
+      "game": "jd3",
+      "title": "Crazy Little Thing Called Love",
+      "author": "Queen",
+      "gameplay": "https://www.youtube.com/embed/2b8yru14ISE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "116",
+      "game": "jd3",
+      "title": "Da Funk",
+      "author": "Daft Punk",
+      "gameplay": "https://www.youtube.com/embed/pJwmSyJHkXk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "117",
+      "game": "jd3",
+      "title": "Dance All Nite",
+      "author": "Anja",
+      "gameplay": "https://www.youtube.com/embed/Vcv-h0wAplo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "118",
+      "game": "jd3",
+      "title": "Dynamite",
+      "author": "Taio Cruz",
+      "gameplay": "https://www.youtube.com/embed/5gjUZTjUBuI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "119",
+      "game": "jd3",
+      "title": "E.T.",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/gkqWbpdmwB0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "120",
+      "game": "jd3",
+      "title": "Forget You",
+      "author": "Cee Lo Green",
+      "gameplay": "https://www.youtube.com/embed/nxydZe7JB0Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "121",
+      "game": "jd3",
+      "title": "Giddy On Up Giddy On Out",
+      "author": "Laura Bell Bundy",
+      "gameplay": "https://www.youtube.com/embed/tYu4tFJnv3g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "122",
+      "game": "jd3",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "author": "C+C Music Factory (Sweat Invaders)",
+      "gameplay": "https://www.youtube.com/embed/KqWKOJ6QHfk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "123",
+      "game": "jd3",
+      "title": "Hey Boy Hey Girl",
+      "author": "The Chemical Brothers",
+      "gameplay": "https://www.youtube.com/embed/x_Zsub9tCgc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "124",
+      "game": "jd3",
+      "title": "Danse hongroise n\u00b05",
+      "author": "orchestration de 1950 d'apr\u00e8s Johannes Brahms",
+      "gameplay": "https://www.youtube.com/embed/tbjlTgo-bnA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "125",
+      "game": "jd3",
+      "title": "I Feel Love",
+      "author": "Donna Summer",
+      "gameplay": "https://www.youtube.com/embed/wly2PqbgoXo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "126",
+      "game": "jd3",
+      "title": "I Don't Feel Like Dancin'",
+      "author": "Scissor Sisters",
+      "gameplay": "https://www.youtube.com/embed/c_fyeuZR4eo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "127",
+      "game": "jd3",
+      "title": "I'm So Excited",
+      "author": "The Pointer Sisters",
+      "gameplay": "https://www.youtube.com/embed/-Gv6kM43fB4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "128",
+      "game": "jd3",
+      "title": "I Was Made for Lovin' You",
+      "author": "Kiss",
+      "gameplay": "https://www.youtube.com/embed/tbCCC-KSjB8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "129",
+      "game": "jd3",
+      "title": "Jamaican Dance",
+      "author": "Konshens",
+      "gameplay": "https://www.youtube.com/embed/2iRBqj54QZU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "130",
+      "game": "jd3",
+      "title": "Jump (For My Love)",
+      "author": "Girls Aloud",
+      "gameplay": "https://www.youtube.com/embed/SMdoTnZU25Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "131",
+      "game": "jd3",
+      "title": "Kurio Ko Uddah Le Jana",
+      "author": "Bollywood Rainbow",
+      "gameplay": "https://www.youtube.com/embed/nB44VqSL_cg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "132",
+      "game": "jd3",
+      "title": "Land of 1000 Dances",
+      "author": "Wilson Pickett",
+      "gameplay": "https://www.youtube.com/embed/cOjVqdRQnLA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "133",
+      "game": "jd3",
+      "title": "Let's Go To the Mall",
+      "author": "Robin Sparkles",
+      "gameplay": "https://www.youtube.com/embed/VcFTScvwBag",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "134",
+      "game": "jd3",
+      "title": "Lollipop",
+      "author": "Mika",
+      "gameplay": "https://www.youtube.com/embed/k4TQuNsrP0E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "135",
+      "game": "jd3",
+      "title": "Mamasita",
+      "author": "Latino Sunset",
+      "gameplay": "https://www.youtube.com/embed/5nZqG794Zag",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "136",
+      "game": "jd3",
+      "title": "Marcia Baila",
+      "author": "Les Rita Mitsouko",
+      "gameplay": "https://www.youtube.com/embed/FvSnslNuKkE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "137",
+      "game": "jd3",
+      "title": "Night Boat To Cairo",
+      "author": "Madness",
+      "gameplay": "https://www.youtube.com/embed/Drvbq_wY3BE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "138",
+      "game": "jd3",
+      "title": "No Limit",
+      "author": "2 Unlimited",
+      "gameplay": "https://www.youtube.com/embed/ihw5NPCW2Lg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "139",
+      "game": "jd3",
+      "title": "Only Girl (In the World)",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/EeelVxzfx0E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "140",
+      "game": "jd3",
+      "title": "Party Rock Anthem",
+      "author": "LMFAO feat Lauren Bennett et GoonRock",
+      "gameplay": "https://www.youtube.com/embed/LxVosoykKR4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "141",
+      "game": "jd3",
+      "title": "Pata Pata",
+      "author": "Miriam Makeba (femmes africaines)",
+      "gameplay": "https://www.youtube.com/embed/IbNkwtB2czA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "142",
+      "game": "jd3",
+      "title": "Price Tag",
+      "author": "Jessie J featuring B.o.B",
+      "gameplay": "https://www.youtube.com/embed/ajKl8z6fSes",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "143",
+      "game": "jd3",
+      "title": "Promiscuous",
+      "author": "Nelly Furtado featuring Timbaland",
+      "gameplay": "https://www.youtube.com/embed/KFA_jdR_ivI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "144",
+      "game": "jd3",
+      "title": "Pump It",
+      "author": "The Black Eyed Peas",
+      "gameplay": "https://www.youtube.com/embed/usEQHL_ZN8s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "145",
+      "game": "jd3",
+      "title": "Satellite",
+      "author": "Lena",
+      "gameplay": "https://www.youtube.com/embed/nBCd4TkyA8g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "146",
+      "game": "jd3",
+      "title": "She's Got Me Dancing",
+      "author": "Tommy Sparks",
+      "gameplay": "https://www.youtube.com/embed/Cwbp1VAoEN0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "147",
+      "game": "jd3",
+      "title": "Somethin' Stupid",
+      "author": "Robbie Williams featuring Nicole Kidman",
+      "gameplay": "https://www.youtube.com/embed/ROefbOm4rjs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "148",
+      "game": "jd3",
+      "title": "Spectronizer",
+      "author": "Sentai Express",
+      "gameplay": "https://www.youtube.com/embed/QMVEf9GBeKI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "149",
+      "game": "jd3",
+      "title": "Take on Me",
+      "author": "A-ha",
+      "gameplay": "https://www.youtube.com/embed/yf79FDimTvU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "150",
+      "game": "jd3",
+      "title": "Teenage Dream",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/L7QFG6cyai8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "151",
+      "game": "jd3",
+      "title": "The Master Blaster",
+      "author": "Inspector Marceau",
+      "gameplay": "https://www.youtube.com/embed/K7rDJ4NpZ88",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "152",
+      "game": "jd3",
+      "title": "Think",
+      "author":
+        "Aretha Franklin (le th\u00e9\u00e2tre-orchestre de Londre et Cast)",
+      "gameplay": "https://www.youtube.com/embed/pkSTDXcQWhk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "153",
+      "game": "jd3",
+      "title": "This Is Halloween",
+      "author": "Danny Elfman",
+      "gameplay": "https://www.youtube.com/embed/RHS5-mPJj8M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "154",
+      "game": "jd3",
+      "title": "Tightrope",
+      "author": "Janelle Mon\u00e1e",
+      "gameplay": "https://www.youtube.com/embed/4VT64DcKEBU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "155",
+      "game": "jd3",
+      "title": "Venus",
+      "author": "Bananarama",
+      "gameplay": "https://www.youtube.com/embed/J4CpukGZklk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "156",
+      "game": "jd3",
+      "title": "Video Killed the Radio Star",
+      "author": "The Buggles",
+      "gameplay": "https://www.youtube.com/embed/y7yCbhNvQLo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "157",
+      "game": "jd3",
+      "title": "What You Waiting For?",
+      "author": "Gwen Stefani",
+      "gameplay": "https://www.youtube.com/embed/RkZdZ2PJLs8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "158",
+      "game": "jd3",
+      "title": "Baby Don't Stop Now",
+      "author": "Anja",
+      "gameplay": "https://www.youtube.com/embed/n5shEmlnygg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "159",
+      "game": "jd3",
+      "title": "Jambo Mambo",
+      "author": "Ole Orquestra",
+      "gameplay": "https://www.youtube.com/embed/McjxjpBGLCo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "160",
+      "game": "jd3",
+      "title": "Soul Searchin",
+      "author": "The Groove Century",
+      "gameplay": "https://www.youtube.com/embed/McuVWB01OHQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "161",
+      "game": "jd3",
+      "title": "Twist and Shake It",
+      "author": "The Girly Team",
+      "gameplay": "https://www.youtube.com/embed/A8L3mzh-w6M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "162",
+      "game": "jd3",
+      "title": "Just Mario",
+      "author": "Ubisoft Meets Nintendo",
+      "gameplay": "https://www.youtube.com/embed/C_W4X0icxuQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "163",
+      "game": "jd3",
+      "title": "Touch Me Want Me",
+      "author": "Sweat Invaders",
+      "gameplay": "https://www.youtube.com/embed/tFbklgW__Us",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "164",
+      "game": "jd3",
+      "title": "Dun N Dunsted",
+      "author": "Jason Creasey",
+      "gameplay": "https://www.youtube.com/embed/Si7whCDfk0Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "165",
+      "game": "jd3",
+      "title": "Beat Match Until I'm Blue",
+      "author": "Elevator Suite",
+      "gameplay": "https://www.youtube.com/embed/-G92_biRdBg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "166",
+      "game": "jd3",
+      "title": "Cardiac Caress",
+      "author": "Sweat Invaders",
+      "gameplay": "https://www.youtube.com/embed/7bujz9Uz6lA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "167",
+      "game": "jd3",
+      "title": "Boomsday",
+      "author": "Sweat Invaders",
+      "gameplay": "https://www.youtube.com/embed/tvgyv6C0e7g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "168",
+      "game": "jd3",
+      "title": "Merengue",
+      "author": "Sweat Invaders",
+      "gameplay": "https://www.youtube.com/embed/x5kRLn8lZOQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "170",
+      "game": "jd4",
+      "title": "Ain't No Other Man",
+      "author": "Christina Aguilera",
+      "gameplay": "https://www.youtube.com/embed/K8mXwOQtDno",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "171",
+      "game": "jd4",
+      "title": "Asereje (The Ketchup Song)",
+      "author": "Las Ketchup",
+      "gameplay": "https://www.youtube.com/embed/SXChpdqzWus",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "172",
+      "game": "jd4",
+      "title": "Beware of the Boys (Mundian To Bach Ke)",
+      "author": "Punjabi MC",
+      "gameplay": "https://www.youtube.com/embed/tCqIhEdCddg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "173",
+      "game": "jd4",
+      "title": "Beauty and a Beat",
+      "author": "Justin Bieber (feat. Nicki Minaj)",
+      "gameplay": "https://www.youtube.com/embed/0ZY0GW7KYNA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "174",
+      "game": "jd4",
+      "title": "Call Me Maybe",
+      "author": "Carly Rae Jepsen",
+      "gameplay": "https://www.youtube.com/embed/38nYSq8RdKE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "175",
+      "game": "jd4",
+      "title": "Can't Take My Eyes Off You",
+      "author": "Boys Town Gang",
+      "gameplay": "https://www.youtube.com/embed/aMTH_Kjny9g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "176",
+      "game": "jd4",
+      "title": "Cercavo Amore",
+      "author": "Emma",
+      "gameplay": "https://www.youtube.com/embed/noRf8_TxHvg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "177",
+      "game": "jd4",
+      "title": "Crazy Little Thing",
+      "author": "Anja",
+      "gameplay": "https://www.youtube.com/embed/-4hpGvAeSNw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "178",
+      "game": "jd4",
+      "title": "Crucified",
+      "author": "Army of Lovers",
+      "gameplay": "https://www.youtube.com/embed/t4_fIlusg7s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "179",
+      "game": "jd4",
+      "title": "Diggin' in the Dirt",
+      "author": "Stefanie Heinzmann",
+      "gameplay": "https://www.youtube.com/embed/TXIrJtSHwzg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "180",
+      "game": "jd4",
+      "title": "Disturbia",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/Hc1mXAU2xzc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "181",
+      "game": "jd4",
+      "title": "Domino",
+      "author": "Jessie J",
+      "gameplay": "https://www.youtube.com/embed/mP81D_qOMZw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "182",
+      "game": "jd4",
+      "title": "Everybody Needs Somebody to Love",
+      "author": "Solomon Burke",
+      "gameplay": "https://www.youtube.com/embed/vljOXohgDJk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "183",
+      "game": "jd4",
+      "title": "Good Feeling (Alice Version)",
+      "author": "Flo Rida",
+      "gameplay": "https://www.youtube.com/embed/CJayD81A2fA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "184",
+      "game": "jd4",
+      "title": "Good Girl",
+      "author": "Carrie Underwood",
+      "gameplay": "https://www.youtube.com/embed/Dx9EBRdWcK0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "185",
+      "game": "jd4",
+      "title": "Hit 'Em Up Style (Oops!)",
+      "author": "Blu Cantrell",
+      "gameplay": "https://www.youtube.com/embed/Nlwao_TddKA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "186",
+      "game": "jd4",
+      "title": "Hot for me",
+      "author": "A.K.A.",
+      "gameplay": "https://www.youtube.com/embed/bx4HCz1BvIk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "187",
+      "game": "jd4",
+      "title": "I Like It Like That",
+      "author": "The Blackout All-Stars",
+      "gameplay": "https://www.youtube.com/embed/qzPD0jshpkc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "188",
+      "game": "jd4",
+      "title": "Istanbul",
+      "author": "They Might Be Giants",
+      "gameplay": "https://www.youtube.com/embed/GwVAXCKKjZs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "189",
+      "game": "jd4",
+      "title": "Jailhouse Rock",
+      "author": "Elvis Presley",
+      "gameplay": "https://www.youtube.com/embed/hiAd48GLMKU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "190",
+      "game": "jd4",
+      "title": "Livin' La Vida Loca",
+      "author": "Ricky Martin",
+      "gameplay": "https://www.youtube.com/embed/jK3vpk_Mj1M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "191",
+      "game": "jd4",
+      "title": "Love You Like a Love Song",
+      "author": "Selena Gomez & the Scene",
+      "gameplay": "https://www.youtube.com/embed/5WpPVbiIJdI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "192",
+      "game": "jd4",
+      "title": "Make The Party (Don't Stop)",
+      "author": "Bunny Beatz",
+      "gameplay": "https://www.youtube.com/embed/KDbs_urS8dQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "193",
+      "game": "jd4",
+      "title": "Maneater",
+      "author": "Nelly Furtado",
+      "gameplay": "https://www.youtube.com/embed/7IfB76ymlHE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "194",
+      "game": "jd4",
+      "title": "Mas que Nada",
+      "author": "Sergio Mendes",
+      "gameplay": "https://www.youtube.com/embed/il45Xi3312U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "195",
+      "game": "jd4",
+      "title": "Moves Like Jagger",
+      "author": "Maroon 5 (feat. Christina Aguilera)",
+      "gameplay": "https://www.youtube.com/embed/qJI4Ut3fc7Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "196",
+      "game": "jd4",
+      "title": "Mr. Saxobeat",
+      "author": "Alexandra Stan",
+      "gameplay": "https://www.youtube.com/embed/1R9yZu-72gs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "197",
+      "game": "jd4",
+      "title": "Never Gonna Give You Up",
+      "author": "Rick Astley",
+      "gameplay": "https://www.youtube.com/embed/GOwablQ7ZY8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "198",
+      "game": "jd4",
+      "title": "Oh No!",
+      "author": "Marina & the Diamonds",
+      "gameplay": "https://www.youtube.com/embed/Od84ejeGmT4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "199",
+      "game": "jd4",
+      "title": "On the Floor",
+      "author": "Jennifer Lopez (feat. Pitbull)",
+      "gameplay": "https://www.youtube.com/embed/gZrjFbHahf8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "200",
+      "game": "jd4",
+      "title": "Oops!... I Did It Again",
+      "author": "The girly Team",
+      "gameplay": "https://www.youtube.com/embed/KZiq44K2xpw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "201",
+      "game": "jd4",
+      "title": "Rock N' Roll (Will Take You To The Mountain)",
+      "author": "Skrillex",
+      "gameplay": "https://www.youtube.com/embed/dOMUJ09mi8E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "202",
+      "game": "jd4",
+      "title": "Rock Lobster",
+      "author": "The B-52's",
+      "gameplay": "https://www.youtube.com/embed/mQ-xFvPobQU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "203",
+      "game": "jd4",
+      "title": "Run the Show",
+      "author": "Kat DeLuna (feat. Busta Rhymes)\t",
+      "gameplay": "https://www.youtube.com/embed/9f0y4I9Qb_0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "204",
+      "game": "jd4",
+      "title": "So What",
+      "author": "P!nk",
+      "gameplay": "https://www.youtube.com/embed/O7jT_EQ355w",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "205",
+      "game": "jd4",
+      "title": "Some Catchin' Up To Do",
+      "author": "Sammy",
+      "gameplay": "https://www.youtube.com/embed/FA9-9zJgueM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "206",
+      "game": "jd4",
+      "title": "Super Bass",
+      "author": "Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/5_KqnZlloE4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "207",
+      "game": "jd4",
+      "title": "Superstition",
+      "author": "Stevie Wonder",
+      "gameplay": "https://www.youtube.com/embed/CzsmbxPHgnA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "208",
+      "game": "jd4",
+      "title": "The Final Countdown",
+      "author": "Europe",
+      "gameplay": "https://www.youtube.com/embed/4m2iuDQZK1A",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "209",
+      "game": "jd4",
+      "title": "(I've Had) The Time of My Life",
+      "author": "Bill Medley & Jennifer Warnes",
+      "gameplay": "https://www.youtube.com/embed/wxEIXUCzj6I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "210",
+      "game": "jd4",
+      "title": "Time Warp",
+      "author":
+        "Richard O'Brien, Patricia Quinn, Nell Campbell, & Charles Gray",
+      "gameplay": "https://www.youtube.com/embed/4pv9zkZcBRc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "211",
+      "game": "jd4",
+      "title": "Tribal Dance",
+      "author": "2 Unlimited",
+      "gameplay": "https://www.youtube.com/embed/eOdFeszR0Ks",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "212",
+      "game": "jd4",
+      "title": "Umbrella",
+      "author": "Rihanna (feat. Jay-Z)",
+      "gameplay": "https://www.youtube.com/embed/Wiut4y6WLVI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "213",
+      "game": "jd4",
+      "title": "Want U Back",
+      "author": "Cher Lloyd (feat. Astro Man)",
+      "gameplay": "https://www.youtube.com/embed/TCw7It7hCd0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "214",
+      "game": "jd4",
+      "title": "We No Speak Americano",
+      "author": "Yolanda Be Cool & DCUP",
+      "gameplay": "https://www.youtube.com/embed/KW_eRTj3TuI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "215",
+      "game": "jd4",
+      "title": "What Makes You Beautiful",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/oOIqEiUIcDQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "216",
+      "game": "jd4",
+      "title": "Wild Wild West",
+      "author": "Will Smith",
+      "gameplay": "https://www.youtube.com/embed/PYlpOeErLD0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "217",
+      "game": "jd4",
+      "title": "You're the First, the Last, My Everything",
+      "author": "Barry White",
+      "gameplay": "https://www.youtube.com/embed/qGD4U_4zucA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "218",
+      "game": "jd4",
+      "title": "Part of Me",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/rUyEOpJ92i0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "219",
+      "game": "jd4",
+      "title": "Gangnam Style",
+      "author": "Psy",
+      "gameplay": "https://www.youtube.com/embed/9r5b52AkSvI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "220",
+      "game": "jd4",
+      "title": "Funhouse",
+      "author": "P!nk",
+      "gameplay": "https://www.youtube.com/embed/joihkdyeRfk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "221",
+      "game": "jd4",
+      "title": "You Make Me Feel",
+      "author": "Cobra Starship (feat. Sabi)",
+      "gameplay": "https://www.youtube.com/embed/bhiLSeRq9jI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "222",
+      "game": "jd4",
+      "title": "One Thing",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/4JWd0kdAGhE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "223",
+      "game": "jd4",
+      "title": "Hit the Lights",
+      "author": "Selena Gomez & the Scene",
+      "gameplay": "https://www.youtube.com/embed/w-M78GBntJI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "224",
+      "game": "jd4",
+      "title": "Heavy Cross",
+      "author": "Gossip",
+      "gameplay": "https://www.youtube.com/embed/uaqRCZi0VZA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "225",
+      "game": "jd4",
+      "title": "So Glamorous",
+      "author": "The Girly Team",
+      "gameplay": "https://www.youtube.com/embed/XKotmUbr4v4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "226",
+      "game": "jd4",
+      "title": "We R Who We R",
+      "author": "Ke$ha",
+      "gameplay": "https://www.youtube.com/embed/TJef-XERTsA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "227",
+      "game": "jd4",
+      "title": "Oath",
+      "author": "Cher Lloyd (Feat. Becky G)",
+      "gameplay": "https://www.youtube.com/embed/erEh5G5HG_U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "228",
+      "game": "jd4",
+      "title": "The Lazy Song",
+      "author": "Bruno Mars",
+      "gameplay": "https://www.youtube.com/embed/ZQrl3VCCw64",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "229",
+      "game": "jd4",
+      "title": "Gold Dust",
+      "author": "DJ Fresh",
+      "gameplay": "https://www.youtube.com/embed/FvEl___N_eE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "230",
+      "game": "jd4",
+      "title": "Die Young",
+      "author": "Ke$ha",
+      "gameplay": "https://www.youtube.com/embed/fXxTgyEQz7Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "231",
+      "game": "jd4",
+      "title": "Primadonna",
+      "author": "Marina & the Diamonds",
+      "gameplay": "https://www.youtube.com/embed/nd6dST5UBOQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "232",
+      "game": "jd2014",
+      "title": "Applause",
+      "author": "Lady Gaga",
+      "gameplay": "https://www.youtube.com/embed/0fi0nIQcU80",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "233",
+      "game": "jd2014",
+      "title": "Just Dance",
+      "author": "Lady Gaga feat. Colby O'Donis",
+      "gameplay": "https://www.youtube.com/embed/mfQBlsL-iGc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "234",
+      "game": "jd2014",
+      "title": "Feel This Moment",
+      "author": "Pitbull feat. Christina Aguilera",
+      "gameplay": "https://www.youtube.com/embed/0YqzM9lAR7c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "235",
+      "game": "jd2014",
+      "title": "Flashdance\u2026 What A Feeling",
+      "author": "The Girly Team ( reprise de Irene Cara )",
+      "gameplay": "https://www.youtube.com/embed/ACh8K9q96P8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "236",
+      "game": "jd2014",
+      "title": "I Kissed a Girl",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/UW5G4UBxiiI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "237",
+      "game": "jd2014",
+      "title": "I Will Survive",
+      "author": "Gloria Gaynor",
+      "gameplay": "https://www.youtube.com/embed/zMUfYaOc9fo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "238",
+      "game": "jd2014",
+      "title": "Rich Girl",
+      "author": "Gwen Stefani feat. Eve",
+      "gameplay": "https://www.youtube.com/embed/1c3tDplNmG0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "239",
+      "game": "jd2014",
+      "title": "She Wolf (Falling to Pieces)",
+      "author": "",
+      "gameplay": "https://www.youtube.com/embed/nLfyBo-XjlM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "240",
+      "game": "jd2014",
+      "title": "Starships",
+      "author": "Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/IAaf_cimqr8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "241",
+      "game": "jd2014",
+      "title": "Miss Understood",
+      "author": "Sammie",
+      "gameplay": "https://www.youtube.com/embed/zVZK-L-QAOc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "242",
+      "game": "jd2014",
+      "title": "Where Have You Been",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/ScT1Ytl8wkc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "243",
+      "game": "jd2014",
+      "title": "Wild",
+      "author": "Jessie J feat. Big Sean",
+      "gameplay": "https://www.youtube.com/embed/HR6ZFPHYd4c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "244",
+      "game": "jd2014",
+      "title": "Follow The Leader",
+      "author": "Wisin y Yandel feat. Jennifer Lopez",
+      "gameplay": "https://www.youtube.com/embed/Vsrj1XdMp-s",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "245",
+      "game": "jd2014",
+      "title": "Danse (Pop Version)",
+      "author": "Tal ",
+      "gameplay": "https://www.youtube.com/embed/r28dJZxuKVM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "246",
+      "game": "jd2014",
+      "title": "Dan\u00e7ando",
+      "author": "Ivete Sangalo",
+      "gameplay": "https://www.youtube.com/embed/z8c7jQ7HeAs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "247",
+      "game": "jd2014",
+      "title": "Fine China",
+      "author": "Chris Brown",
+      "gameplay": "https://www.youtube.com/embed/OR1At3Yj_LE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "248",
+      "game": "jd2014",
+      "title": "Gentleman",
+      "author": "PSY",
+      "gameplay": "https://www.youtube.com/embed/ZipanLmv_AI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "249",
+      "game": "jd2014",
+      "title": "Troublemaker",
+      "author": "Olly Murs feat. Flo Rida",
+      "gameplay": "https://www.youtube.com/embed/AFxnk3IPVe8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "250",
+      "game": "jd2014",
+      "title": "The Other Side",
+      "author": "Jason Derulo",
+      "gameplay": "https://www.youtube.com/embed/TkXMYd4Uwz8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "251",
+      "game": "jd2014",
+      "title": "Alfonso Signorini (Eroe Nazionale)\t",
+      "author": "Fedez",
+      "gameplay": "https://www.youtube.com/embed/o55xH-F_0bk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "252",
+      "game": "jd2014",
+      "title": "Love Boat",
+      "author": "Frankie Bostello",
+      "gameplay": "https://www.youtube.com/embed/pgAeY3I8p5M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "253",
+      "game": "jd2014",
+      "title": "Maria",
+      "author": "Ricky Martin",
+      "gameplay": "https://www.youtube.com/embed/WcYQfrzaZ6c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "254",
+      "game": "jd2014",
+      "title": "It's You",
+      "author": "Duck Sauce",
+      "gameplay": "https://www.youtube.com/embed/UEm7HNGgIOM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "255",
+      "game": "jd2014",
+      "title": "Isidora",
+      "author": "Bog Bog Orkestar",
+      "gameplay": "https://www.youtube.com/embed/K4uWGe0BR4o",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "256",
+      "game": "jd2014",
+      "title": "Feel So Right",
+      "author": "Imposs Ft. Konshens",
+      "gameplay": "https://www.youtube.com/embed/AGRqHmDSqSs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "257",
+      "game": "jd2014",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "author": "ABBA",
+      "gameplay": "https://www.youtube.com/embed/PJ0HinsiPo4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "258",
+      "game": "jd2014",
+      "title": "Candy",
+      "author": "Robbie Williams",
+      "gameplay": "https://www.youtube.com/embed/XuY7z2oBqyM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "259",
+      "game": "jd2014",
+      "title": "Careless Whisper",
+      "author": "George Michael",
+      "gameplay": "https://www.youtube.com/embed/1AXyVDB5PkI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "260",
+      "game": "jd2014",
+      "title": "C'Mon",
+      "author": "Ke$ha",
+      "gameplay": "https://www.youtube.com/embed/JsyC9uixhjE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "261",
+      "game": "jd2014",
+      "title": "Aquarius/Let The Sunshine In",
+      "author": "The Sunlight Shakers",
+      "gameplay": "https://www.youtube.com/embed/KsRkKfPjaVg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "262",
+      "game": "jd2014",
+      "title": "Moskau",
+      "author": "Dancing Bros.",
+      "gameplay": "https://www.youtube.com/embed/tYMqwQp3gwI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "263",
+      "game": "jd2014",
+      "title": "Turn Up the Love",
+      "author": "Far East Movement feat. Cover Drive",
+      "gameplay": "https://www.youtube.com/embed/9l7IuYJ6xCY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "264",
+      "game": "jd2014",
+      "title": "Limbo",
+      "author": "Daddy Yankee",
+      "gameplay": "https://www.youtube.com/embed/B1vg46gEI8E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "265",
+      "game": "jd2014",
+      "title": "Could You Be Loved",
+      "author": "Bob Marley",
+      "gameplay": "https://www.youtube.com/embed/OfN-16IYNvE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "266",
+      "game": "jd2014",
+      "title": "Just a Gigolo",
+      "author": "Louis Prima",
+      "gameplay": "https://www.youtube.com/embed/0dqFJLJ8jZk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "267",
+      "game": "jd2014",
+      "title": "Nitro Bot",
+      "author": "Sentai Express",
+      "gameplay": "https://www.youtube.com/embed/Z2-a0PC9TjU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "268",
+      "game": "jd2014",
+      "title": "99 Luftballons",
+      "author": "Rutschen Planeten",
+      "gameplay": "https://www.youtube.com/embed/nWMATeA-Pwg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "269",
+      "game": "jd2014",
+      "title": "Get Lucky",
+      "author": "Daft Punk feat. Pharrell Williams",
+      "gameplay": "https://www.youtube.com/embed/Mk-FinHjJKY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "270",
+      "game": "jd2014",
+      "title": "Blurred Lines",
+      "author": "Robin Thicke feat. Pharrell",
+      "gameplay": "https://www.youtube.com/embed/x1-o62z2_q8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "271",
+      "game": "jd2014",
+      "title": "Pound The Alarm",
+      "author": "Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/B1ha2xLOpJQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "272",
+      "game": "jd2014",
+      "title": "Blame It on the Boogie",
+      "author": "Michael Jackson",
+      "gameplay": "https://www.youtube.com/embed/NpmFzLqnuxI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "273",
+      "game": "jd2014",
+      "title": "In the Summertime",
+      "author": "Mungo Jerry",
+      "gameplay": "https://www.youtube.com/embed/pzuTWm7D0mE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "274",
+      "game": "jd2014",
+      "title": "#thatPOWER",
+      "author": "william feat. Justin Bieber",
+      "gameplay": "https://www.youtube.com/embed/z30Sd37VyNw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "275",
+      "game": "jd2014",
+      "title": "Ghostbusters",
+      "author": "Ray Parker, Jr.",
+      "gameplay": "https://www.youtube.com/embed/ueqK3xLh46Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "276",
+      "game": "jd2014",
+      "title": "Kiss You",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/yITf6IpNhFc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "277",
+      "game": "jd2014",
+      "title": "Y.M.C.A.",
+      "author": "Village People",
+      "gameplay": "https://www.youtube.com/embed/sdWzwehCkGM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "278",
+      "game": "jd2014",
+      "title": "Prince Ali",
+      "author": "Aladdin (Disney)",
+      "gameplay": "https://www.youtube.com/embed/Y6nFNSlFqWw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "279",
+      "game": "jd2014",
+      "title": "Roar",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/ViwsljT16no",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "280",
+      "game": "jd2014",
+      "title": "Wake Me Up",
+      "author": "Avicii",
+      "gameplay": "https://www.youtube.com/embed/J-GUzoOZAZU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "281",
+      "game": "jd2014",
+      "title": "Can't Hold Us",
+      "author": "Macklemore & Ryan Lewis ft. Ray Dalton",
+      "gameplay": "https://www.youtube.com/embed/97KdxaRBf0M",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "282",
+      "game": "jd2014",
+      "title": "Safe And Sound",
+      "author": "Capital Cities",
+      "gameplay": "https://www.youtube.com/embed/L5Ivqz9GFPk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "283",
+      "game": "jd2014",
+      "title": "We Can't Stop",
+      "author": "Miley Cyrus",
+      "gameplay": "https://www.youtube.com/embed/RB5H9MEHd4w",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "284",
+      "game": "jd2014",
+      "title": "Waking Up In Vegas",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/vt8GcGy2X0A",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "285",
+      "game": "jd2014",
+      "title": "What About Love",
+      "author": "Austin Mahone",
+      "gameplay": "https://www.youtube.com/embed/JrEHMPMfzFM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "286",
+      "game": "jd2014",
+      "title": "One Way Or Another (Teenage Kicks)",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/3_jfgXK1oR0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "287",
+      "game": "jd2014",
+      "title": "American Girl",
+      "author": "Bonnie McKee",
+      "gameplay": "https://www.youtube.com/embed/8NrK-59xWDI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "288",
+      "game": "jd2014",
+      "title": "Sexy And I Know It",
+      "author": "LMFAO",
+      "gameplay": "https://www.youtube.com/embed/wZUmeYGaTSY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "289",
+      "game": "jd2014",
+      "title": "Can't Get Enough",
+      "author": "Becky G feat. Pitbull",
+      "gameplay": "https://www.youtube.com/embed/dD8Me7iN1bA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "290",
+      "game": "jd2014",
+      "title": "My Main Girl",
+      "author": "MainStreet",
+      "gameplay": "https://www.youtube.com/embed/wBqHoBWbngk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "291",
+      "game": "jd2014",
+      "title": "I Need Your Love",
+      "author": "Calvin Harris feat. Ellie Goulding",
+      "gameplay": "https://www.youtube.com/embed/jSUR1IUiTVg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "292",
+      "game": "jd2014",
+      "title": "Don't You Worry Child",
+      "author": "Swedish House Mafia feat. John Martin",
+      "gameplay": "https://www.youtube.com/embed/jGR2N10onpw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "293",
+      "game": "jd2014",
+      "title": "Timber",
+      "author": "Ke$ha feat. Pitbull",
+      "gameplay": "https://www.youtube.com/embed/5mgcXDQ8E2Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "294",
+      "game": "jd2014",
+      "title": "The World Is Ours",
+      "author": "David Correy",
+      "gameplay": "https://www.youtube.com/embed/U4S4HlvBIzw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "295",
+      "game": "jd2015",
+      "title": "4x4",
+      "author": "Miley Cyrus",
+      "gameplay": "https://www.youtube.com/embed/wOBUSGIC-c8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "296",
+      "game": "jd2015",
+      "title": "Addicted To You",
+      "author": "Avicii",
+      "gameplay": "https://www.youtube.com/embed/9xKUT980O2g",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "297",
+      "game": "jd2015",
+      "title": "Ain't No Mountain High Enough",
+      "author": "Marvin Gaye and Tammi Terrell",
+      "gameplay": "https://www.youtube.com/embed/dOMUJ09mi8E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "298",
+      "game": "jd2015",
+      "title": "Bad Romance",
+      "author": "Lady Gaga",
+      "gameplay": "https://www.youtube.com/embed/Dd8OqrsDXjM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "299",
+      "game": "jd2015",
+      "title": "Bailando",
+      "author": "Enrique Iglesias",
+      "gameplay": "https://www.youtube.com/embed/byKbbcLQQnM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "300",
+      "game": "jd2015",
+      "title": "Bang Bang",
+      "author": "Jessie J ft. Ariana Grande & Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/AteZ1333gn4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "301",
+      "game": "jd2015",
+      "title": "Best Song Ever",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/2FlsIHlQAxM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "302",
+      "game": "jd2015",
+      "title": "Birthday",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/otWeDrOWq08",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "303",
+      "game": "jd2015",
+      "title": "Black Widow",
+      "author": "Iggy Azalea ft. Rita Ora",
+      "gameplay": "https://www.youtube.com/embed/MSBLUVpsez0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "304",
+      "game": "jd2015",
+      "title": "Built For This",
+      "author": "Becky G",
+      "gameplay": "https://www.youtube.com/embed/BTC30b3I_zw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "305",
+      "game": "jd2015",
+      "title": "Burn",
+      "author": "Ellie Goulding",
+      "gameplay": "https://www.youtube.com/embed/T5eneYpa0Tw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "306",
+      "game": "jd2015",
+      "title": "Dark Horse",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/vNb1PXWQHbo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "307",
+      "game": "jd2015",
+      "title": "Diamonds",
+      "author": "Rihanna",
+      "gameplay": "https://www.youtube.com/embed/xFYbxuCNko0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "308",
+      "game": "jd2015",
+      "title": "Don't Worry, Be Happy",
+      "author": "Bobby McFerrin (The Bench Mens)",
+      "gameplay": "https://www.youtube.com/embed/zVXoyTT6FS8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "309",
+      "game": "jd2015",
+      "title": "Epic Sirtaki",
+      "author": "The Bouzouki's",
+      "gameplay": "https://www.youtube.com/embed/LY42pSdg-sU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "310",
+      "game": "jd2015",
+      "title": "Fatima",
+      "author": "Cheb Salama",
+      "gameplay": "https://www.youtube.com/embed/gRbjiP7FR6Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "311",
+      "game": "jd2015",
+      "title": "Get Low",
+      "author": "DJ Snake & Dillon Francis",
+      "gameplay": "https://www.youtube.com/embed/vgSaB9RdRXQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "312",
+      "game": "jd2015",
+      "title": "Happy",
+      "author": "Pharrell Williams",
+      "gameplay": "https://www.youtube.com/embed/G74_o_43_RQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "313",
+      "game": "jd2015",
+      "title": "Holding Out for a Hero",
+      "author": "Bonnie Tyler",
+      "gameplay": "https://www.youtube.com/embed/vm7ll0cRfVo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "314",
+      "game": "jd2015",
+      "title": "I Love It",
+      "author": "Icona Pop ft. Charlie XCX",
+      "gameplay": "https://www.youtube.com/embed/s0kwXIlaOGc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "315",
+      "game": "jd2015",
+      "title": "It's My Birthday",
+      "author": "will.i.am ft. Cody Wise",
+      "gameplay": "https://www.youtube.com/embed/S9qTfvp8YGE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "316",
+      "game": "jd2015",
+      "title": "Let It Go",
+      "author": "La Reine Des Neiges",
+      "gameplay": "https://www.youtube.com/embed/Drhn3V4olE4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "317",
+      "game": "jd2015",
+      "title": "Love Is All",
+      "author": "Roger Glover & Butterfly Ball (The Sunlight Shakers)",
+      "gameplay": "https://www.youtube.com/embed/2K_3wbo9ptc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "318",
+      "game": "jd2015",
+      "title": "Love Me Again",
+      "author": "John Newman",
+      "gameplay": "https://www.youtube.com/embed/jx49TtH72lA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "319",
+      "game": "jd2015",
+      "title": "Macarena",
+      "author": "Los Del Rio (The Girly Team)",
+      "gameplay": "https://www.youtube.com/embed/Nt-0yK9gPv4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "320",
+      "game": "jd2015",
+      "title": "Mahna Mahna",
+      "author": "Piero Umiliani",
+      "gameplay": "https://www.youtube.com/embed/Y1qs2mhzXII",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "321",
+      "game": "jd2015",
+      "title": "Maps",
+      "author": "Maroon 5",
+      "gameplay": "https://www.youtube.com/embed/0zhkQuUGQnc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "322",
+      "game": "jd2015",
+      "title": "Me and My Broken Heart",
+      "author": "Rixton",
+      "gameplay": "https://www.youtube.com/embed/8q3nnFHV4Ck",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "323",
+      "game": "jd2015",
+      "title": "Never Can Say Goodbye",
+      "author": "Gloria Gaynor",
+      "gameplay": "https://www.youtube.com/embed/mJxCKoxWNuA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "324",
+      "game": "jd2015",
+      "title": "Only You (And You Alone)",
+      "author": "The Platters (Love Letter)",
+      "gameplay": "https://www.youtube.com/embed/f_KmFFl7hVY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "325",
+      "game": "jd2015",
+      "title": "Papaoutai",
+      "author": "Stromae",
+      "gameplay": "https://www.youtube.com/embed/g-UpSf1A42c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "326",
+      "game": "jd2015",
+      "title": "Problem",
+      "author": "Ariana Grande ft. Iggy Azalea",
+      "gameplay": "https://www.youtube.com/embed/F-NW0wcB8BY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "327",
+      "game": "jd2015",
+      "title": "She Looks So Perfect",
+      "author": "5 Seconds of Summer",
+      "gameplay": "https://www.youtube.com/embed/vPsMxfVQ3t4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "328",
+      "game": "jd2015",
+      "title": "Speedy Gonzalez",
+      "author": "David Hess",
+      "gameplay": "https://www.youtube.com/embed/8cWHj1FJEeA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "329",
+      "game": "jd2015",
+      "title": "Summer",
+      "author": "Calvin Harris",
+      "gameplay": "https://www.youtube.com/embed/KRGDT-5JLlA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "330",
+      "game": "jd2015",
+      "title": "Tetris",
+      "author": "Dancing Bros.",
+      "gameplay": "https://www.youtube.com/embed/W2lxJNXeOtw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "331",
+      "game": "jd2015",
+      "title": "The Fox (What Does the Fox Say?)",
+      "author": "Ylvis",
+      "gameplay": "https://www.youtube.com/embed/Gk6kM-hbliA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "332",
+      "game": "jd2015",
+      "title": "Till I Find You",
+      "author": "Austin Mahone",
+      "gameplay": "https://www.youtube.com/embed/cj_bvMhv-sg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "333",
+      "game": "jd2015",
+      "title": "Walk This Way",
+      "author": "Aerosmith ft. Run-DMC",
+      "gameplay": "https://www.youtube.com/embed/pGcFlWMtrhU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "334",
+      "game": "jd2015",
+      "title": "XMas Tree",
+      "author": "Bollywood Santa",
+      "gameplay": "https://www.youtube.com/embed/6YLKPZU4fqI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "335",
+      "game": "jd2015",
+      "title": "You Spin Me Round (Like A Round)",
+      "author": "Dead or Alive",
+      "gameplay": "https://www.youtube.com/embed/KeGzrBcaluM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "336",
+      "game": "jd2015",
+      "title": "You're On My Mind",
+      "author": "Imposs feat. J. Perry",
+      "gameplay": "https://www.youtube.com/embed/cxyQsEui_M8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "337",
+      "game": "jd2015",
+      "title": "Break Free",
+      "author": "Ariana Grande ft. Zedd",
+      "gameplay": "https://www.youtube.com/embed/Scflq-tjL-c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "338",
+      "game": "jd2015",
+      "title": "I Luh Ya Papi",
+      "author": "Jennifer Lopez ft. French Montana",
+      "gameplay": "https://www.youtube.com/embed/lfUU-C4Rm84",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "339",
+      "game": "jd2015",
+      "title": "Boom Clap",
+      "author": "Charli XCX",
+      "gameplay": "https://www.youtube.com/embed/bUX-HoAjy-0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "340",
+      "game": "jd2015",
+      "title": "Kiss Kiss",
+      "author": "Prince Royce",
+      "gameplay": "https://www.youtube.com/embed/fUVtMZ9XWPQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "341",
+      "game": "jd2016",
+      "title": "All About That Bass",
+      "author": "Meghan Trainor",
+      "gameplay": "https://www.youtube.com/embed/JTmb5Kp3gqY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "342",
+      "game": "jd2016",
+      "title": "Animals",
+      "author": "Martin Garrix",
+      "gameplay": "https://www.youtube.com/embed/c5qs1Za2Zgw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "343",
+      "game": "jd2016",
+      "title": "Balkan Blast Remix",
+      "author": "Angry Birds",
+      "gameplay": "https://www.youtube.com/embed/wRfZJsFsly0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "344",
+      "game": "jd2016",
+      "title": "Blame",
+      "author": "Calvin Harris feat. John Newman",
+      "gameplay": "https://www.youtube.com/embed/mDiNxW6lwN4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "345",
+      "game": "jd2016",
+      "title": "Born This Way",
+      "author": "Lady Gaga",
+      "gameplay": "https://www.youtube.com/embed/AerpamdCtmc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "346",
+      "game": "jd2016",
+      "title": "Boys (Summertime Love)",
+      "author": "Sabrina (The Lemon Cubes)",
+      "gameplay": "https://www.youtube.com/embed/lhra6pS_PCQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "347",
+      "game": "jd2016",
+      "title": "Chiwawa",
+      "author": "Wanko Ni Mero Mero",
+      "gameplay": "https://www.youtube.com/embed/rzE2obzZ6Cg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "348",
+      "game": "jd2016",
+      "title": "Circus",
+      "author": "Britney Spears",
+      "gameplay": "https://www.youtube.com/embed/CsFJAzqZYS0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "349",
+      "game": "jd2016",
+      "title": "Cool For The Summer",
+      "author": "Demi Lovato",
+      "gameplay": "https://www.youtube.com/embed/93bIgp5lVM8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "350",
+      "game": "jd2016",
+      "title": "Copacabana",
+      "author": "Barry Manilow (Frankie Bostello)",
+      "gameplay": "https://www.youtube.com/embed/z-mQqV7y6sM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "351",
+      "game": "jd2016",
+      "title": "Drop The Mambo",
+      "author": "Diva Carmina",
+      "gameplay": "https://www.youtube.com/embed/OSovq81i_e0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "352",
+      "game": "jd2016",
+      "title": "Fancy",
+      "author": "Iggy Azalea & Charli XCX",
+      "gameplay": "https://www.youtube.com/embed/WloD7JE0ijY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "353",
+      "game": "jd2016",
+      "title": "Fun",
+      "author": "Pitbull & Chris Brown",
+      "gameplay": "https://www.youtube.com/embed/HHYALgIxwtc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "354",
+      "game": "jd2016",
+      "title": "Gibberish",
+      "author": "MAX feat. Hoodie Allen",
+      "gameplay": "https://www.youtube.com/embed/xnA2sY_O9ag",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "355",
+      "game": "jd2016",
+      "title": "Hangover (BaBaBa)",
+      "author": "Buraka Som Sistema",
+      "gameplay": "https://www.youtube.com/embed/uOuPihpZsw8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "356",
+      "game": "jd2016",
+      "title": "Heartbeat Song",
+      "author": "Kelly Clarkson",
+      "gameplay": "https://www.youtube.com/embed/d096g28-Fhw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "357",
+      "game": "jd2016",
+      "title": "Hey Mama",
+      "author": "David Guetta feat. Nicki Minaj, Afrojack et Bebe Rexha",
+      "gameplay": "https://www.youtube.com/embed/OGkxJ9046Lk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "358",
+      "game": "jd2016",
+      "title": "Hit The Road Jack",
+      "author": "Charles Percy",
+      "gameplay": "https://www.youtube.com/embed/ZRUxgFX3PQM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "359",
+      "game": "jd2016",
+      "title": "Ievan Polkka",
+      "author": "Hatsune Miku",
+      "gameplay": "https://www.youtube.com/embed/AWO_SIlz2u8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "360",
+      "game": "jd2016",
+      "title": "I Gotta Feeling",
+      "author": "The Black Eyed Peas",
+      "gameplay": "https://www.youtube.com/embed/L446CMoGDCY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "361",
+      "game": "jd2016",
+      "title": "I'm An Albatraoz",
+      "author": "AronChupa",
+      "gameplay": "https://www.youtube.com/embed/hsqi_qRpwp0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "362",
+      "game": "jd2016",
+      "title": "Irish Meadow Dance",
+      "author": "O'Callaghan's Orchestra",
+      "gameplay": "https://www.youtube.com/embed/Ix69asaIAIM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "363",
+      "game": "jd2016",
+      "title": "Junto A Ti",
+      "author": "Violetta",
+      "gameplay": "https://www.youtube.com/embed/0LF6XJdr0vw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "364",
+      "game": "jd2016",
+      "title": "Kaboom Pow",
+      "author": "Nikki Yanofsky",
+      "gameplay": "https://www.youtube.com/embed/Qpf3uO8abtg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "365",
+      "game": "jd2016",
+      "title": "Kool Kontact",
+      "author": "The Glorious Black Belts",
+      "gameplay": "https://www.youtube.com/embed/2_Fy1Z-kVz8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "366",
+      "game": "jd2016",
+      "title": "Let's Groove",
+      "author": "Earth, Wind & Fire (Equinox Stars)",
+      "gameplay": "https://www.youtube.com/embed/tUFV-K_MzZs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "367",
+      "game": "jd2016",
+      "title": "Lights",
+      "author": "Ellie Goulding",
+      "gameplay": "https://www.youtube.com/embed/0JwKh023V4I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "368",
+      "game": "jd2016",
+      "title": "No Control",
+      "author": "One Direction",
+      "gameplay": "https://www.youtube.com/embed/BlpLlvOi_so",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "369",
+      "game": "jd2016",
+      "title": "Rabiosa",
+      "author": "Shakira & El Cata",
+      "gameplay": "https://www.youtube.com/embed/WT5cgeWfcCQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "370",
+      "game": "jd2016",
+      "title": "Same Old Love",
+      "author": "Selena Gomez",
+      "gameplay": "https://www.youtube.com/embed/7Ey_LZDAlTg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "371",
+      "game": "jd2016",
+      "title": "Stadium Flow",
+      "author": "Imposs",
+      "gameplay": "https://www.youtube.com/embed/Q-pUPS8f274",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "372",
+      "game": "jd2016",
+      "title": "Stuck On A Feeling",
+      "author": "Prince Royce",
+      "gameplay": "https://www.youtube.com/embed/hEggA05LfFk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "373",
+      "game": "jd2016",
+      "title": "Teacher",
+      "author": "Nick Jonas",
+      "gameplay": "https://www.youtube.com/embed/RC4zQ5Y4qlg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "374",
+      "game": "jd2016",
+      "title": "The Choice Is Yours",
+      "author": "Darius Dante Van Dijk",
+      "gameplay": "https://www.youtube.com/embed/7Txw1dFz_n0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "375",
+      "game": "jd2016",
+      "title": "These Boots Are Made For Walking",
+      "author": "Nancy Sinatra (The Girly Team)",
+      "gameplay": "https://www.youtube.com/embed/IqPcjgm0nQo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "376",
+      "game": "jd2016",
+      "title": "This Is How We Do",
+      "author": "Katy Perry",
+      "gameplay": "https://www.youtube.com/embed/xm0OnNsEgmE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "377",
+      "game": "jd2016",
+      "title": "Under The Sea",
+      "author": "From Disney's The Little Mermaid",
+      "gameplay": "https://www.youtube.com/embed/5nhTRoaEdhk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "378",
+      "game": "jd2016",
+      "title": "Uptown Funk",
+      "author": "Mark Ronson feat. Bruno Mars",
+      "gameplay": "https://www.youtube.com/embed/I8eJhdqzEV8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "379",
+      "game": "jd2016",
+      "title": "Want to Want Me",
+      "author": "Jason Derulo",
+      "gameplay": "https://www.youtube.com/embed/2zwtD32rVr0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "380",
+      "game": "jd2016",
+      "title": "When The Rain Begins To Fall",
+      "author": "Sky Trucking",
+      "gameplay": "https://www.youtube.com/embed/e5y3fnCq1DU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "381",
+      "game": "jd2016",
+      "title": "William Tell Overture",
+      "author": "Rossini",
+      "gameplay": "https://www.youtube.com/embed/Hw-WS-O9pmc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "382",
+      "game": "jd2016",
+      "title": "You Never Can Tell",
+      "author": "Chuck Berry (A.Caveman & The Backseats)",
+      "gameplay": "https://www.youtube.com/embed/uB0xqIdd0og",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "383",
+      "game": "jd2016",
+      "title": "You're The One That I Want",
+      "author": "From The Movie Grease",
+      "gameplay": "https://www.youtube.com/embed/lljKkisw0rg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "384",
+      "game": "jd2016",
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "author": "OMI",
+      "gameplay": "https://www.youtube.com/embed/q7JzxaYcauk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "385",
+      "game": "jd2016",
+      "title": "Smile",
+      "author": "IOWA",
+      "gameplay": "https://www.youtube.com/embed/XybeONda5bY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "386",
+      "game": "jd2016",
+      "title": "Better When I'm Dancin'",
+      "author": "Meghan Trainor",
+      "gameplay": "https://www.youtube.com/embed/KWPNE4oqAJA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "387",
+      "game": "jd2016",
+      "title": "Shut Up and Dance",
+      "author": "Walk the Moon",
+      "gameplay": "https://www.youtube.com/embed/g-xVZFYx5fA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "388",
+      "game": "jd2016",
+      "title": "Get Ugly",
+      "author": "Jason Derulo",
+      "gameplay": "https://www.youtube.com/embed/dnPd2WuD3wc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "389",
+      "game": "jd2016",
+      "title": "Taste the Feeling",
+      "author": "Avicii ft. Conrad Sewell",
+      "gameplay": "https://www.youtube.com/embed/hWVHr4sswTU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "390",
+      "game": "jd2016",
+      "title": "Am I Wrong",
+      "author": "Nico & Vinz",
+      "gameplay": "https://www.youtube.com/embed/Sdr06SxWUtY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "391",
+      "game": "jd2016",
+      "title": "Hold My Hand",
+      "author": "Jess Glynne",
+      "gameplay": "https://www.youtube.com/embed/fPA-cIJuXws",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "392",
+      "game": "jd2017",
+      "title": "All About Us",
+      "author": "Jordan Fisher",
+      "gameplay": "https://www.youtube.com/embed/YVd1n2AGTZc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "393",
+      "game": "jd2017",
+      "title": "Bailar",
+      "author": "Deorro ft. Elvis Crespo",
+      "gameplay": "https://www.youtube.com/embed/kXBUY0SCNp0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "394",
+      "game": "jd2017",
+      "title": "Bang",
+      "author": "Anitta",
+      "gameplay": "https://www.youtube.com/embed/nf6DrPeIjrI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "395",
+      "game": "jd2017",
+      "title": "BonBon",
+      "author": "Era Istrefi",
+      "gameplay": "https://www.youtube.com/embed/ONcF2ca1LRs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "396",
+      "game": "jd2017",
+      "title": "Cake By The Ocean",
+      "author": "DNCE",
+      "gameplay": "https://www.youtube.com/embed/oRY_wV7nQ78",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "397",
+      "game": "jd2017",
+      "title": "Can't Feel My Face",
+      "author": "The Weeknd",
+      "gameplay": "https://www.youtube.com/embed/-PCY8hXTT5c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "398",
+      "game": "jd2017",
+      "title": "Carnaval Boom",
+      "author": "Latino Sunset",
+      "gameplay": "https://www.youtube.com/embed/lmJrK7KmErQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "399",
+      "game": "jd2017",
+      "title": "Cheap Thrills",
+      "author": "Sia Furler ft. Sean Paul",
+      "gameplay": "https://www.youtube.com/embed/wfEjnQVOb3o",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "400",
+      "game": "jd2017",
+      "title": "Cola Song",
+      "author": "INNA ft. J Balvin",
+      "gameplay": "https://www.youtube.com/embed/Cv7M-KYi6l0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "401",
+      "game": "jd2017",
+      "title": "DADDY",
+      "author": "Psy feat. CL & 2NE1",
+      "gameplay": "https://www.youtube.com/embed/7ox_vevjVyM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "402",
+      "game": "jd2017",
+      "title": "Don't Stop Me Now",
+      "author": "Queen",
+      "gameplay": "https://www.youtube.com/embed/6JuUTaMmZ5Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "403",
+      "game": "jd2017",
+      "title": "Don't Wanna Know",
+      "author": "Maroon 5",
+      "gameplay": "https://www.youtube.com/embed/W2rHAKMX66E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "404",
+      "game": "jd2017",
+      "title": "Dragostea Din Tei",
+      "author": "O-Zone",
+      "gameplay": "https://www.youtube.com/embed/JNydBtviyrI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "405",
+      "game": "jd2017",
+      "title": "El Tiki",
+      "author": "Maluma",
+      "gameplay": "https://www.youtube.com/embed/kSSjOnAyF-o",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "406",
+      "game": "jd2017",
+      "title": "Ghost In The Keys",
+      "author": "Halloween Thrills",
+      "gameplay": "https://www.youtube.com/embed/WfEcjFombg0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "407",
+      "game": "jd2017",
+      "title": "Groove",
+      "author": "Jack & Jack",
+      "gameplay": "https://www.youtube.com/embed/ndWA6Wh7rXA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "408",
+      "game": "jd2017",
+      "title": "Hips Don't Lie",
+      "author": "Shakira feat Wyclef Jean",
+      "gameplay": "https://www.youtube.com/embed/V0jcc1TgFJM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "409",
+      "game": "jd2017",
+      "title": "I Love Rock 'N' Roll",
+      "author": "Joan Jett & The Blackhearts (Fast Forward Highway)",
+      "gameplay": "https://www.youtube.com/embed/CkdAPoDa76Y",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "410",
+      "game": "jd2017",
+      "title": "Into You",
+      "author": "Ariana Grande",
+      "gameplay": "https://www.youtube.com/embed/syPcs90Gy80",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "411",
+      "game": "jd2017",
+      "title": "Lean On",
+      "author": "Major Lazer feat. DJ Snake & M\u00d8",
+      "gameplay": "https://www.youtube.com/embed/pXQ4c6IYiVU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "412",
+      "game": "jd2017",
+      "title": "La Bicicleta",
+      "author": "Carlos Vives ft. Shakira",
+      "gameplay": "https://www.youtube.com/embed/LWU8lc5zvDw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "413",
+      "game": "jd2017",
+      "title": "Last Christmas",
+      "author": "Wham! (Santa Clones)",
+      "gameplay": "https://www.youtube.com/embed/AHUgBq_4ZxY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "414",
+      "game": "jd2017",
+      "title": "Leila",
+      "author": "Cheb Salama",
+      "gameplay": "https://www.youtube.com/embed/zig8qyx57gM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "415",
+      "game": "jd2017",
+      "title": "Let Me Love You",
+      "author": "DJ Snake ft. Justin Bieber",
+      "gameplay": "https://www.youtube.com/embed/JRmFBocfXCQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "416",
+      "game": "jd2017",
+      "title": "Like I Would",
+      "author": "ZAYN",
+      "gameplay": "https://www.youtube.com/embed/zL1rCTC9NE4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "417",
+      "game": "jd2017",
+      "title": "Little Swing",
+      "author": "AronChupa ft. Little Sis Nora",
+      "gameplay": "https://www.youtube.com/embed/O-CWpgXJ4IY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "418",
+      "game": "jd2017",
+      "title": "Oishii Oishii",
+      "author": "Wanko Ni Mero Mero",
+      "gameplay": "https://www.youtube.com/embed/t-tTL6mH7Oo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "419",
+      "game": "jd2017",
+      "title": "PoPiPo",
+      "author": "Hatsune Miku",
+      "gameplay": "https://www.youtube.com/embed/GkVcgbvNoK0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "420",
+      "game": "jd2017",
+      "title": "Radical",
+      "author": "Dyro & Dannic",
+      "gameplay": "https://www.youtube.com/embed/8tCepSs1d0c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "421",
+      "game": "jd2017",
+      "title": "Run The Night",
+      "author": "Gigi Rowe",
+      "gameplay": "https://www.youtube.com/embed/b8T1tX7TSnA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "422",
+      "game": "jd2017",
+      "title": "Scream & Shout",
+      "author": "will.i.am feat. Britney Spears",
+      "gameplay": "https://www.youtube.com/embed/FHWvZNPIagQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "423",
+      "game": "jd2017",
+      "title": "September",
+      "author": "Earth, Wind & Fire (Equinox Stars)",
+      "gameplay": "https://www.youtube.com/embed/J2ps3RmJnGc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "424",
+      "game": "jd2017",
+      "title": "Single Ladies (Put a Ring on It)",
+      "author": "Beyonc\u00e9",
+      "gameplay": "https://www.youtube.com/embed/-f-AmesaWYs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "425",
+      "game": "jd2017",
+      "title": "Sorry",
+      "author": "Justin Bieber",
+      "gameplay": "https://www.youtube.com/embed/nb10K7afRNY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "426",
+      "game": "jd2017",
+      "title": "Te Dominar",
+      "author": "Daya Luz",
+      "gameplay": "https://www.youtube.com/embed/zQfqbepN7Gw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "427",
+      "game": "jd2017",
+      "title": "Tico-Tico No Fub\u00e1\t",
+      "author": "The Frankie Bostello Orchestra",
+      "gameplay": "https://www.youtube.com/embed/b0Bd-unGvHE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "428",
+      "game": "jd2017",
+      "title": "Titanium",
+      "author": "David Guetta feat. Sia",
+      "gameplay": "https://www.youtube.com/embed/ZFGidhb-lPU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "429",
+      "game": "jd2017",
+      "title": "Watch Me (Whip/Nae Nae)",
+      "author": "Silent\u00f3",
+      "gameplay": "https://www.youtube.com/embed/r7YWe8CCMiY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "430",
+      "game": "jd2017",
+      "title": "What Is Love",
+      "author": "Haddaway (Ultraclub 90)",
+      "gameplay": "https://www.youtube.com/embed/I3KR7ddwx1U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "431",
+      "game": "jd2017",
+      "title": "Wherever I Go",
+      "author": "OneRepublic",
+      "gameplay": "https://www.youtube.com/embed/CZBSBuTr9qk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "432",
+      "game": "jd2017",
+      "title": "Worth It",
+      "author": "Fifth Harmony feat. Kid Ink",
+      "gameplay": "https://www.youtube.com/embed/-jjNi2ZEWQ4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "433",
+      "game": "jd2017",
+      "title": "Je sais pas danser",
+      "author": "Natoo",
+      "gameplay": "https://www.youtube.com/embed/pfvMecHT7bI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "434",
+      "game": "jd2017",
+      "title": "Imya 505",
+      "author": "Vremia i Steklo",
+      "gameplay": "https://www.youtube.com/embed/KZplK-kQDzI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "435",
+      "game": "jd2017",
+      "title": "Youth",
+      "author": "Troye Sivan",
+      "gameplay": "https://www.youtube.com/embed/PnTL7I8tLoc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "436",
+      "game": "jd2017",
+      "title": "Ona tanczy dla mnie",
+      "author": "Weekend",
+      "gameplay": "https://www.youtube.com/embed/11fnACqEofc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "437",
+      "game": "jd2017",
+      "title": "The Greatest",
+      "author": "Sia",
+      "gameplay": "https://www.youtube.com/embed/ak3Zs43Fv4c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "438",
+      "game": "jd2017",
+      "title": "Juju On That Beat",
+      "author": "Zay Hilfigerrr & Zayion McCall",
+      "gameplay": "https://www.youtube.com/embed/T-0WqvyYA14",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "439",
+      "game": "jd2017",
+      "title": "Don't Worry",
+      "author": "Madcon & Ray Dalton",
+      "gameplay": "https://www.youtube.com/embed/P5xcqcCiu2o",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "440",
+      "game": "jd2017",
+      "title": "Me Too",
+      "author": "Meghan Trainor",
+      "gameplay": "https://www.youtube.com/embed/BieKXHnpieE",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "441",
+      "game": "jd2017",
+      "title": "How Deep Is Your Love",
+      "author": "Calvin Harris and Disciples",
+      "gameplay": "https://www.youtube.com/embed/neu1qaS5riI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "442",
+      "game": "jd2017",
+      "title": "HandClap",
+      "author": "Fitz and The Tantrums",
+      "gameplay": "https://www.youtube.com/embed/lXvoS3QQLC4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "443",
+      "game": "jd2017",
+      "title": "Don't Let Me Down",
+      "author": "The Chainsmokers ft. Daya",
+      "gameplay": "https://www.youtube.com/embed/2T4fDjwSEPM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "444",
+      "game": "jd2017",
+      "title": "Ain\u2019t My Fault",
+      "author": "Zara Larsson",
+      "gameplay": "https://www.youtube.com/embed/JdEzwBjyI9w",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "445",
+      "game": "jd2018",
+      "title": "24K Magic",
+      "author": "Bruno Mars",
+      "gameplay": "https://www.youtube.com/embed/PN79SBBBuF8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "446",
+      "game": "jd2018",
+      "title": "All You Gotta Do (Is Just Dance)",
+      "author": "The Just Dance Band",
+      "gameplay": "https://www.youtube.com/embed/yn1rH9RDCy4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "447",
+      "game": "jd2018",
+      "title": "Another One Bites The Dust",
+      "author": "Queen",
+      "gameplay": "https://www.youtube.com/embed/MajpomYUm5c",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "448",
+      "game": "jd2018",
+      "title": "Automaton",
+      "author": "Jamiroquai",
+      "gameplay": "https://www.youtube.com/embed/5Rh3BWu-fQQ",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "449",
+      "game": "jd2018",
+      "title": "Bad Liar",
+      "author": "Selena Gomez",
+      "gameplay": "https://www.youtube.com/embed/_RCZiVMPes0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "450",
+      "game": "jd2018",
+      "title": "Beep Beep I'm A Sheep",
+      "author": "LilDeuceDeuce & TomSka",
+      "gameplay": "https://www.youtube.com/embed/h9o6-80j110",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "451",
+      "game": "jd2018",
+      "title": "Blow Your Mind (Mwah)",
+      "author": "Dua Lipa",
+      "gameplay": "https://www.youtube.com/embed/Q4Nsf8JV9Qs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "452",
+      "game": "jd2018",
+      "title": "Blue (Da Ba Dee)",
+      "author": "Eiffel 65 (Hit The Electro Beat)",
+      "gameplay": "https://www.youtube.com/embed/CJVAKWA5M4U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "453",
+      "game": "jd2018",
+      "title": "Boom Boom",
+      "author": "Iggy Azalea ft Zedd",
+      "gameplay": "https://www.youtube.com/embed/xYVefLQmlmA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "454",
+      "game": "jd2018",
+      "title": "Bubble Pop!",
+      "author": "HyunA",
+      "gameplay": "https://www.youtube.com/embed/Dr10hS9qGF8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "455",
+      "game": "jd2018",
+      "title": "Carmen (Overture)",
+      "author": "Just Dance Orchestra (Georges Bizet)",
+      "gameplay": "https://www.youtube.com/embed/HUnk0yU0tx4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "456",
+      "game": "jd2018",
+      "title": "Chantaje",
+      "author": "Shakira feat. Maluma",
+      "gameplay": "https://www.youtube.com/embed/r08WhmwQpxc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "457",
+      "game": "jd2018",
+      "title": "Daddy Cool",
+      "author": "Boney M. (Groove Century)",
+      "gameplay": "https://www.youtube.com/embed/hER-lGoZATk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "458",
+      "game": "jd2018",
+      "title": "Despacito",
+      "author": "Luis Fonsi feat. Daddy Yankee",
+      "gameplay": "https://www.youtube.com/embed/9hW5sXowU9Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "459",
+      "game": "jd2018",
+      "title": "Dharma",
+      "author": "Headhunterz & KSHMR",
+      "gameplay": "https://www.youtube.com/embed/mKDiiPYdf88",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "460",
+      "game": "jd2018",
+      "title": "Diggy",
+      "author": "Spencer Ludwig",
+      "gameplay": "https://www.youtube.com/embed/k400ivGHf4Q",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "461",
+      "game": "jd2018",
+      "title": "Fight Club",
+      "author": "Lights",
+      "gameplay": "https://www.youtube.com/embed/k-4EktHokiw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "462",
+      "game": "jd2018",
+      "title": "Footloose",
+      "author": "Kenny Loggins (Top Culture)",
+      "gameplay": "https://www.youtube.com/embed/wWAQaL4nUcU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "463",
+      "game": "jd2018",
+      "title": "Got That",
+      "author": "Gigi Rowe",
+      "gameplay": "https://www.youtube.com/embed/A2NIaZwm8M0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "464",
+      "game": "jd2018",
+      "title": "How Far I'll Go",
+      "author": "Auli'i Cravalho (Vaiana)",
+      "gameplay": "https://www.youtube.com/embed/QoOjh2MlMI4",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "465",
+      "game": "jd2018",
+      "title": "Instruction",
+      "author": "Jax Jones feat. Demi Lovato & Stefflon Don",
+      "gameplay": "https://www.youtube.com/embed/4K-1VPOYVbU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "466",
+      "game": "jd2018",
+      "title": "In The Hall Of The Pixel King",
+      "author": "Dancing Bros",
+      "gameplay": "https://www.youtube.com/embed/v9W55lins8A",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "467",
+      "game": "jd2018",
+      "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+      "author": "Brian Hyland (The Sunlight Shakers)",
+      "gameplay": "https://www.youtube.com/embed/Wea3W15Ti_k",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "468",
+      "game": "jd2018",
+      "title": "John Wayne",
+      "author": "Lady Gaga",
+      "gameplay": "https://www.youtube.com/embed/DDO8LrpEHvk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "469",
+      "game": "jd2018",
+      "title": "Kissing Strangers",
+      "author": "DNCE feat. Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/bjgN4unl86A",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "470",
+      "game": "jd2018",
+      "title": "Love Ward",
+      "author": "Hatsune Miku",
+      "gameplay": "https://www.youtube.com/embed/pc2fps1urx0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "471",
+      "game": "jd2018",
+      "title": "Make It Jingle",
+      "author": "Big Freedia",
+      "gameplay": "https://www.youtube.com/embed/3Tc_KPM1Lyg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "472",
+      "game": "jd2018",
+      "title": "Naughty Girl",
+      "author": "Beyonc\u00e9",
+      "gameplay": "https://www.youtube.com/embed/UrHP3RJJh_I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "473",
+      "game": "jd2018",
+      "title": "New Face",
+      "author": "Psy",
+      "gameplay": "https://www.youtube.com/embed/icIN9Vjw8w8",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "474",
+      "game": "jd2018",
+      "title": "Rockabye",
+      "author": "Clean Bandit feat. Sean Paul & Anne-Marie",
+      "gameplay": "https://www.youtube.com/embed/UJUIns7ssqg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "475",
+      "game": "jd2018",
+      "title": "Risky Business",
+      "author": "Jorge Blanco",
+      "gameplay": "https://www.youtube.com/embed/UVtVC86ojUc",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "476",
+      "game": "jd2018",
+      "title": "Sayonara",
+      "author": "Wanko Ni Mero Mero",
+      "gameplay": "https://www.youtube.com/embed/ZoiXnPfFQSw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "477",
+      "game": "jd2018",
+      "title": "Shape Of You",
+      "author": "Ed Sheeran",
+      "gameplay": "https://www.youtube.com/embed/NtRiFuymMFw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "478",
+      "game": "jd2018",
+      "title": "Side to Side",
+      "author": "Ariana Grande feat. Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/pl4TYFKSxkU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "479",
+      "game": "jd2018",
+      "title": "Slumber Party",
+      "author": "Britney Spears feat. Tinashe",
+      "gameplay": "https://www.youtube.com/embed/YUlUubWKx0k",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "480",
+      "game": "jd2018",
+      "title": "Swish Swish",
+      "author": "Katy Perry feat. Nicki Minaj",
+      "gameplay": "https://www.youtube.com/embed/Z0m99F9MPvM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "481",
+      "game": "jd2018",
+      "title": "The Way I Are (Dance With Somebody)",
+      "author": "Bebe Rexha feat. Lil Wayne",
+      "gameplay": "https://www.youtube.com/embed/vIKEPw8iL38",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "482",
+      "game": "jd2018",
+      "title": "Thumbs",
+      "author": "Sabrina Carpenter",
+      "gameplay": "https://www.youtube.com/embed/dOMUJ09mi8E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "483",
+      "game": "jd2018",
+      "title": "J\u2019suis pas jalouse",
+      "author": "Andy",
+      "gameplay": "https://www.youtube.com/embed/Y95p8o1zeXg",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "484",
+      "game": "jd2018",
+      "title": "Tumbum",
+      "author": "Yemi Alade",
+      "gameplay": "https://www.youtube.com/embed/ve7YlebTvYU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "485",
+      "game": "jd2018",
+      "title": "Waka Waka (This Time for Africa)",
+      "author": "Shakira",
+      "gameplay": "https://www.youtube.com/embed/ie-f7eE251U",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "486",
+      "game": "jd2018kids",
+      "title": "Amazing Girl",
+      "author": "The Girly Team",
+      "gameplay": "https://www.youtube.com/embed/aWABFojbrmo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "487",
+      "game": "jd2018kids",
+      "title": "Happy Farm",
+      "author": "Groove Century",
+      "gameplay": "https://www.youtube.com/embed/ksla8bGkEFw",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "488",
+      "game": "jd2018kids",
+      "title": "Fearless Pirate",
+      "author": "Marine Band",
+      "gameplay": "https://www.youtube.com/embed/G_HVMgQ3x7A",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "489",
+      "game": "jd2018kids",
+      "title": "Funky Robot",
+      "author": "Dancing Bros.",
+      "gameplay": "https://www.youtube.com/embed/G1Ty_NpoTvU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "490",
+      "game": "jd2018kids",
+      "title": "Magic Halloween",
+      "author": "Halloween Thrills",
+      "gameplay": "https://www.youtube.com/embed/LEA2qji_rCU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "491",
+      "game": "jd2018kids",
+      "title": "Pixie Land",
+      "author": "The Sunlight Shakers",
+      "gameplay": "https://www.youtube.com/embed/oAV57xxYoJM",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "492",
+      "game": "jdredoo",
+      "title": "Lush Life",
+      "author": "Zara Larsson",
+      "gameplay": "https://www.youtube.com/watch?v=Is7yy49Juw0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "493",
+      "game": "jdredoo",
+      "title": "Bring The Fire",
+      "author": "Ylwa",
+      "gameplay": "https://www.youtube.com/embed/qRYTCQMJ8Wk",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "494",
+      "game": "jdredoo",
+      "title": "Worth It",
+      "author": "Fifth Harmony ft. Kid Ink",
+      "gameplay": "https://www.youtube.com/watch?v=gcMWR5wSFMA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "495",
+      "game": "jdredoo",
+      "title": "Colors",
+      "author": "Halsey",
+      "gameplay": "https://www.youtube.com/embed/Iu79Nc4o8ak",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "496",
+      "game": "jdredoo",
+      "title": "Somewhere To Run",
+      "author": "Krewella",
+      "gameplay": "https://www.youtube.com/watch?v=vhTt-KV5ef0",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "497",
+      "game": "jdredoo",
+      "title": "Shape Of You",
+      "author": "Ed Sheeran",
+      "gameplay": "https://www.youtube.com/watch?v=zAgUrkk-srI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "498",
+      "game": "jdredoo",
+      "title": "South Beach Stars",
+      "author": "Gigi Rowe",
+      "gameplay": "https://www.youtube.com/watch?v=kYZWIbwVO2k",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "499",
+      "game": "jdredoo",
+      "title": "Chantaje",
+      "author": "Shakira ft. Maluma",
+      "gameplay": "https://www.youtube.com/watch?v=xmzyDsgwWCY",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "500",
+      "game": "jdredoo",
+      "title": "Shout Out To My Ex",
+      "author": "Little Mix",
+      "gameplay": "https://www.youtube.com/watch?v=3glgGU3QPEI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "501",
+      "game": "jdredoo",
+      "title": "Talk Dirty",
+      "author": "Jason Derulo",
+      "gameplay": "https://www.youtube.com/watch?v=H9D_A7cPhog",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "502",
+      "game": "jdredoo",
+      "title": "Run Away With Me",
+      "author": "Carly Rae Jespen",
+      "gameplay": "https://www.youtube.com/watch?v=5JTHNrfmLvo",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "503",
+      "game": "jdredoo",
+      "title": "Love Myself",
+      "author": "Hailee Steinfeld",
+      "gameplay": "https://www.youtube.com/watch?v=dOMUJ09mi8E",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "504",
+      "game": "jdredoo",
+      "title": "I Got You",
+      "author": "Bebe Rexha",
+      "gameplay": "https://www.youtube.com/watch?v=j5NHF0Hen0I",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "505",
+      "game": "jdredoo",
+      "title": "Hey Ma",
+      "author": "Pitbull & J Balvin ft. Camilla Cabello",
+      "gameplay": "https://www.youtube.com/watch?v=PcgrBa70jlU",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "506",
+      "game": "jdredoo",
+      "title": "Sparks",
+      "author": "Hilary Duff",
+      "gameplay": "https://www.youtube.com/watch?v=xbZyCJwBD04",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "507",
+      "game": "jdredoo",
+      "title": "Buy Me Diamonds",
+      "author": "Bea Miller",
+      "gameplay": "https://www.youtube.com/watch?v=EpU7tYwJvUs",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "508",
+      "game": "jdredoo",
+      "title": "Boombayah",
+      "author": "BLACKPINK",
+      "gameplay": "https://www.youtube.com/watch?v=wc3wUMPFfbI",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "509",
+      "game": "jdredoo",
+      "title": "Soap",
+      "author": "Melanie Martinez",
+      "gameplay": "https://www.youtube.com/watch?v=e-t8Uhn7lfA",
+      "jdu": "0",
+      "dlc": "0"
+    },
+    {
+      "id": "510",
+      "game": "jdredoo",
+      "title": "Santa's Coming For Us",
+      "author": "Sia",
+      "gameplay": "https://www.youtube.com/watch?v=Yhm6Wdj3cmY",
+      "jdu": "0",
+      "dlc": "0"
+    }
+  ]
+}
