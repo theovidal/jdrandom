@@ -1,9 +1,3 @@
-let players = ['Théo', 'Noé', 'Antonin', 'Antoine', 'Alan']
-
-let final = choose(players)
-
-console.log(final)
-
 function choose(players) {
   let selected = []
   let select = ''
@@ -50,3 +44,5 @@ function song(mode) {
   let songs = require('./songs.js')
   return songs[mode][Math.round(Math.random() * (songs[mode].length - 1))]
 }
+
+export default choose
