@@ -3,7 +3,7 @@
   "description": "🎵 Random song chooser for Just Dance",
   "version": "2.0.0-alpha2",
   "author": "Exybore",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "main": "src/app.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
